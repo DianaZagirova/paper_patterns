@@ -1,0 +1,119 @@
+Loaded 18 papers from ./paper_data/papers/
+
+
+
+
+
+Certainly! Below is a comprehensive, advanced PubMed search strategy designed to maximize **recall** (i.e., find as many relevant papers as possible) for **aging theory** papers. This query is based on deep analysis of the "golden set" and the known characteristics of aging theory literature. The strategy is designed to capture papers about **theories** of aging, including those that may not use the word "theory" in the title/abstract, and to minimize retrieval of papers about general aging, aging mechanisms, or models that are not theoretical frameworks.
+
+---
+
+## 1. COMMON PATTERNS (Summary)
+
+- Titles/abstracts often mention: "theory", "theories", "hypothesis", "hypotheses", "framework", "paradigm", "concept", "explanation", "principle", "perspective", "overview", "review", "mechanism" (when used in a conceptual, not purely molecular sense), and names of specific theories (e.g., "free radical theory", "disposable soma", "mutation accumulation", "antagonistic pleiotropy", "hyperfunction", "programmed aging", "epigenetic clock", etc.).
+- MeSH terms: "Aging"[MAJR], "Geriatrics"[MAJR], "Models, Biological", "Theoretical", "Philosophy", "Evolution, Molecular", "Evolution, Biological".
+- Abstracts often discuss evolutionary explanations, ultimate/proximate causes, integration of mechanisms, or critique/compare multiple theories.
+- Many papers are reviews, perspectives, or conceptual pieces, but some are original research proposing/testing a theory.
+- Some papers use "framework", "paradigm", or "concept" instead of "theory".
+- Some papers discuss "mechanisms" in a theoretical (not purely molecular) sense.
+- Some use names of specific theories without the word "theory" (e.g., "disposable soma", "antagonistic pleiotropy", "mutation accumulation", "hyperfunction", "programmed aging", "epigenetic clock", etc.).
+
+---
+
+## 2. DISTINGUISHING FEATURES
+
+- Focus on **explanatory frameworks** for aging, not just mechanisms or models.
+- Discusses **why** aging occurs (ultimate/evolutionary explanations), not just **how** (mechanistic details).
+- Often compares/contrasts multiple theories or proposes new ones.
+- May use the names of established theories without the word "theory".
+- Excludes papers focused solely on experimental models, molecular mechanisms, or clinical aspects unless they explicitly discuss theoretical frameworks.
+
+---
+
+## 3. SEARCH STRATEGY (PubMed Query)
+
+### Main Query
+
+```plaintext
+(
+  (
+    aging[Title/Abstract] OR ageing[Title/Abstract] OR senescence[Title/Abstract] OR "ageing"[MeSH Terms] OR "aging"[MeSH Terms] OR "Geriatrics"[MeSH Terms]
+  )
+  AND
+  (
+    theory[Title/Abstract] OR theories[Title/Abstract] OR hypothesis[Title/Abstract] OR hypotheses[Title/Abstract] OR framework[Title/Abstract] OR frameworks[Title/Abstract] OR paradigm[Title/Abstract] OR paradigms[Title/Abstract] OR concept[Title/Abstract] OR concepts[Title/Abstract] OR explanation[Title/Abstract] OR explanations[Title/Abstract] OR perspective[Title/Abstract] OR perspectives[Title/Abstract] OR "ultimate cause"[Title/Abstract] OR "proximate cause"[Title/Abstract] OR "evolutionary explanation"[Title/Abstract] OR "evolutionary theories"[Title/Abstract] OR "evolution of aging"[Title/Abstract] OR "evolution of ageing"[Title/Abstract] OR "evolutionary biology"[Title/Abstract]
+    OR
+    "free radical theory"[Title/Abstract] OR "mutation accumulation"[Title/Abstract] OR "antagonistic pleiotropy"[Title/Abstract] OR "disposable soma"[Title/Abstract] OR "hyperfunction"[Title/Abstract] OR "programmed aging"[Title/Abstract] OR "programmed ageing"[Title/Abstract] OR "epigenetic clock"[Title/Abstract] OR "information theory of aging"[Title/Abstract] OR "redox theory"[Title/Abstract] OR "tumor suppression theory"[Title/Abstract] OR "reproductive-cell cycle theory"[Title/Abstract] OR "developmental theory"[Title/Abstract] OR "entropy theory"[Title/Abstract] OR "complex systems"[Title/Abstract] OR "constraint theory"[Title/Abstract] OR "danaid theory"[Title/Abstract] OR "energy conservation model"[Title/Abstract] OR "metabolaging"[Title/Abstract]
+  )
+)
+NOT
+(
+  "case report"[Publication Type] OR "case reports"[Title] OR "clinical trial"[Publication Type] OR "protocol"[Title] OR "conference"[Title] OR "meeting"[Title]
+)
+```
+
+### Additional Filters (optional for higher recall):
+
+- **Publication types**: (review[pt] OR editorial[pt] OR comment[pt] OR perspective[Title/Abstract] OR overview[Title/Abstract] OR "original research"[Title/Abstract])
+- **MeSH terms**: ("Models, Theoretical"[MeSH Terms] OR "Philosophy"[MeSH Terms] OR "Models, Biological"[MeSH Terms] OR "Evolution, Molecular"[MeSH Terms] OR "Evolution, Biological"[MeSH Terms])
+
+You can append these as:
+
+```plaintext
+AND
+(
+  "Models, Theoretical"[MeSH Terms] OR "Philosophy"[MeSH Terms] OR "Models, Biological"[MeSH Terms] OR "Evolution, Molecular"[MeSH Terms] OR "Evolution, Biological"[MeSH Terms]
+)
+```
+
+---
+
+## 4. RATIONALE
+
+- **Recall priority**: The query is intentionally broad, capturing any paper that (a) discusses aging/ageing/senescence and (b) uses key theory-related terms or names of established theories in the title or abstract.
+- **Theory vs. Model/Mechanism**: The query avoids "model" and "mechanism" as stand-alone terms, unless they are part of a recognized theory name or used in a theoretical context.
+- **Specific theory names**: Many aging theory papers use the name of the theory without the word "theory" (e.g., "disposable soma", "antagonistic pleiotropy"), so these are included as explicit phrases.
+- **MeSH terms**: "Aging"[MeSH] and "Geriatrics"[MeSH] are included, but only in combination with theory-related terms to avoid general aging papers.
+- **Exclusion**: Clinical case reports, protocols, and conference abstracts are excluded to avoid irrelevant clinical or logistical literature.
+
+---
+
+## 5. EDGE CASES
+
+- **Papers that only mention the theory in the discussion or full text**: These may be missed if the theory name or "theory" is not in the title/abstract. This is a limitation of PubMed's indexing.
+- **Papers using only the name of a theory (e.g., "disposable soma")**: The query includes major theory names, but rare or new theories may be missed unless their names are added.
+- **Papers using "mechanism" in a theoretical sense**: Some theoretical papers may use "mechanism" or "mechanisms" as a synonym for "theory". For maximal recall, you could add:
+  - `OR mechanism[Title/Abstract] OR mechanisms[Title/Abstract]`
+  - But this will greatly increase false positives.
+- **Papers in which the theoretical discussion is only in the full text**: These will be missed unless the abstract or title includes relevant terms.
+- **Non-English papers**: The query does not restrict by language, but non-English papers may be missed if their English abstracts are not indexed.
+
+---
+
+## 6. FINAL ADVANCED PUBMED QUERY (copy-paste ready)
+
+```plaintext
+(
+  (
+    aging[Title/Abstract] OR ageing[Title/Abstract] OR senescence[Title/Abstract] OR "ageing"[MeSH Terms] OR "aging"[MeSH Terms] OR "Geriatrics"[MeSH Terms]
+  )
+  AND
+  (
+    theory[Title/Abstract] OR theories[Title/Abstract] OR hypothesis[Title/Abstract] OR hypotheses[Title/Abstract] OR framework[Title/Abstract] OR frameworks[Title/Abstract] OR paradigm[Title/Abstract] OR paradigms[Title/Abstract] OR concept[Title/Abstract] OR concepts[Title/Abstract] OR explanation[Title/Abstract] OR explanations[Title/Abstract] OR perspective[Title/Abstract] OR perspectives[Title/Abstract] OR "ultimate cause"[Title/Abstract] OR "proximate cause"[Title/Abstract] OR "evolutionary explanation"[Title/Abstract] OR "evolutionary theories"[Title/Abstract] OR "evolution of aging"[Title/Abstract] OR "evolution of ageing"[Title/Abstract] OR "evolutionary biology"[Title/Abstract]
+    OR
+    "free radical theory"[Title/Abstract] OR "mutation accumulation"[Title/Abstract] OR "antagonistic pleiotropy"[Title/Abstract] OR "disposable soma"[Title/Abstract] OR "hyperfunction"[Title/Abstract] OR "programmed aging"[Title/Abstract] OR "programmed ageing"[Title/Abstract] OR "epigenetic clock"[Title/Abstract] OR "information theory of aging"[Title/Abstract] OR "redox theory"[Title/Abstract] OR "tumor suppression theory"[Title/Abstract] OR "reproductive-cell cycle theory"[Title/Abstract] OR "developmental theory"[Title/Abstract] OR "entropy theory"[Title/Abstract] OR "complex systems"[Title/Abstract] OR "constraint theory"[Title/Abstract] OR "danaid theory"[Title/Abstract] OR "energy conservation model"[Title/Abstract] OR "metabolaging"[Title/Abstract]
+  )
+)
+NOT
+(
+  "case report"[Publication Type] OR "case reports"[Title] OR "clinical trial"[Publication Type] OR "protocol"[Title] OR "conference"[Title] OR "meeting"[Title]
+)
+```
+
+---
+
+**Note:** For even higher recall, you may consider omitting the NOT clause, but this will increase irrelevant hits. For ongoing curation, periodically update the list of theory names as new theories emerge.
+
+---
+
+**This strategy will maximize recall for aging theory papers in PubMed, while minimizing (but not eliminating) retrieval of general aging or purely mechanistic/model papers.**
