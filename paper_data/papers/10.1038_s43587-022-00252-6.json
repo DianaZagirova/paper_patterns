@@ -1,0 +1,69 @@
+{
+  "doi": "10.1038/s43587-022-00252-6",
+  "title": "A complex systems approach to aging biology",
+  "abstract": "Having made substantial progress understanding molecules, cells, genes and pathways, aging biology research is now moving toward integration of these parts, attempting to understand how their joint dynamics may contribute to aging. Such a shift of perspective requires the adoption of a formal complex systems framework, a transition being facilitated by large-scale data collection and new analytical tools. Here, we provide a theoretical framework to orient researchers around key concepts for this transition, notably emergence, interaction networks and resilience. Drawing on evolutionary theory, network theory and principles of homeostasis, we propose that organismal function is accomplished by the integration of regulatory mechanisms at multiple hierarchical scales, and that the disruption of this ensemble causes the phenotypic and functional manifestations of aging. We present key examples at scales ranging from sub-organismal biology to clinical geriatrics, outlining how this approach can potentially enrich our understanding of aging.",
+  "full_text": {},
+  "mesh_terms": [
+    "Geriatrics",
+    "Homeostasis",
+    "Systems Analysis",
+    "Biology"
+  ],
+  "keywords": [],
+  "citation_count": 144,
+  "authors": [
+    {
+      "name": "Alan A. Cohen",
+      "affiliations": []
+    },
+    {
+      "name": "Luigi Ferrucci",
+      "affiliations": []
+    },
+    {
+      "name": "Tamàs Fülöp",
+      "affiliations": []
+    },
+    {
+      "name": "Dominique Gravel",
+      "affiliations": []
+    },
+    {
+      "name": "Nan Hao",
+      "affiliations": []
+    },
+    {
+      "name": "Andres Kriete",
+      "affiliations": []
+    },
+    {
+      "name": "Morgan E. Levine",
+      "affiliations": []
+    },
+    {
+      "name": "Lewis A. Lipsitz",
+      "affiliations": []
+    },
+    {
+      "name": "Marcel G. M. Olde Rikkert",
+      "affiliations": []
+    },
+    {
+      "name": "Andrew Rutenberg",
+      "affiliations": []
+    },
+    {
+      "name": "Nicholas Stroustrup",
+      "affiliations": []
+    },
+    {
+      "name": "Ravi Varadhan",
+      "affiliations": []
+    }
+  ],
+  "year": 2022,
+  "journal": "Nature Aging",
+  "pmid": "37117782",
+  "pmcid": "PMC12007111",
+  "collection_date": "2025-10-09"
+}

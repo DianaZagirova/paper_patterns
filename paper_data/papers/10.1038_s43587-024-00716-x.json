@@ -1,0 +1,36 @@
+{
+  "doi": "10.1038/s43587-024-00716-x",
+  "title": "The brain–body energy conservation model of aging",
+  "abstract": "Aging involves seemingly paradoxical changes in energy metabolism. Molecular damage accumulation increases cellular energy expenditure, yet whole-body energy expenditure remains stable or decreases with age. We resolve this apparent contradiction by positioning the brain as the mediator and broker in the organismal energy economy. As somatic tissues accumulate damage over time, costly intracellular stress responses are activated, causing aging or senescent cells to secrete cytokines that convey increased cellular energy demand (hypermetabolism) to the brain. To conserve energy in the face of a shrinking energy budget, the brain deploys energy conservation responses, which suppress low-priority processes, producing fatigue, physical inactivity, blunted sensory capacities, immune alterations and endocrine 'deficits'. We term this cascade the brain-body energy conservation (BEC) model of aging. The BEC outlines (1) the energetic cost of cellular aging, (2) how brain perception of senescence-associated hypermetabolism may drive the phenotypic manifestations of aging and (3) energetic principles underlying the modifiability of aging trajectories by stressors and geroscience interventions.",
+  "full_text": {},
+  "mesh_terms": [
+    "Humans",
+    "Energy Metabolism",
+    "Aging",
+    "Brain",
+    "Cellular Senescence",
+    "Models, Biological",
+    "Animals"
+  ],
+  "keywords": [],
+  "citation_count": 24,
+  "authors": [
+    {
+      "name": "Evan D. Shaulson",
+      "affiliations": []
+    },
+    {
+      "name": "Alan A. Cohen",
+      "affiliations": []
+    },
+    {
+      "name": "Martin Picard",
+      "affiliations": []
+    }
+  ],
+  "year": 2024,
+  "journal": "Nature Aging",
+  "pmid": "39379694",
+  "pmcid": null,
+  "collection_date": "2025-10-09"
+}

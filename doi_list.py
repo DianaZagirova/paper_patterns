@@ -1,0 +1,20 @@
+dois = [
+    "https://doi.org/10.1007/s10522-015-9584-x",
+    "https://doi.org/10.1007/s10522-024-10143-5",
+    "https://doi.org/10.1111/acel.70207",
+    "https://doi.org/10.1016/j.exger.2010.09.007",
+    "https://doi.org/10.3390/cells11050917",
+    "https://doi.org/10.1016/j.arr.2021.101557",
+    "https://doi.org/10.1038/s43587-022-00252-6",
+    "https://doi.org/10.1016/j.metabol.2025.156158",
+    "https://doi.org/10.1038/s41556-025-01698-7",
+    "https://doi.org/10.1073/pnas.2300624120",
+    "https://doi.org/10.1038/s43587-024-00716-x",
+    "https://doi.org/10.1038/s43587-023-00527-6",
+    "https://doi.org/10.1038/s41576-018-0004-3",
+    "https://doi.org/10.1042/CS20160897",
+    "https://doi.org/10.3389/fcell.2021.671208",
+    "https://doi.org/10.3389/fcell.2020.575645",
+    "https://doi.org/10.1016/j.mad.2021.111583",
+    "https://doi.org/10.1152/physrev.1998.78.2.547"
+]
