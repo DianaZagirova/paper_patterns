@@ -1,0 +1,72 @@
+{
+  "doi": "10.1111/acel.70207",
+  "title": "The Role of Selection for Function in Aging and Chronic Diseases: A Novel Evolutionary Perspective",
+  "abstract": "Aging, and by extension age-related diseases, has traditionally been understood through classical evolutionary genetic models, such as the mutation accumulation and antagonistic pleiotropy theories. However, these frameworks primarily focus on the declining efficacy of organismal-level selection against mutations with deleterious effects in late life. Here, we propose a novel hypothesis: many chronic diseases associated with aging may emerge, at least in part, as a result of selection acting at lower organizational levels, including non-replicative biological entities, enabled by the relaxation of selective pressures that constrained within-organism evolutionary processes in early life. This hypothesis is built on the recently proposed concept of selection for function that extends the evolutionary process to non-replicative entities. While Darwinian selection acting at the organismal level strongly constrains within-organism evolution during an organism's reproductive lifespan, these constraints weaken with age. As a consequence, lower-level non-replicative entities, such as benign and malignant tumors, atherosclerotic plaques, and neurodegenerative aggregates, may experience a form of selection that favors those with increased stability, organization, and long-term persistence, sometimes at the cost to host fitness. These entities do not evolve via long-term differential reproduction, but rather certain configurations of their structure persist preferentially over others due to environmental constraints, microenvironmental selection, and internal stabilization mechanisms. Understanding aging through the lens of selection for function at the level of internal non-replicative entities provides new insights into the evolution of chronic diseases and opens novel therapeutic avenues aimed at disrupting internal functional organization, rather than merely targeting cellular proliferation/abnormalities or disease symptoms.",
+  "full_text": {},
+  "mesh_terms": [],
+  "keywords": [],
+  "citation_count": null,
+  "authors": [
+    {
+      "name": "Antoine M. Dujon",
+      "affiliations": [
+        "CREEC/CANECEV, MIVEGEC (CREES) Department University of Montpellier, CNRS, IRD  Montpellier France",
+        "School of Life and Environmental Sciences Deakin University  Waurn Ponds Victoria Australia"
+      ]
+    },
+    {
+      "name": "Klara Asselin",
+      "affiliations": [
+        "CREEC/CANECEV, MIVEGEC (CREES) Department University of Montpellier, CNRS, IRD  Montpellier France"
+      ]
+    },
+    {
+      "name": "Jean François Lemaître",
+      "affiliations": [
+        "CNRS, UMR5558, Laboratoire de Biométrie et Biologie Évolutive Université Lyon 1  Villeurbanne France"
+      ]
+    },
+    {
+      "name": "Jean‐Pascal Capp",
+      "affiliations": [
+        "Toulouse Biotechnology Institute University of Toulouse, INSA, CNRS, INRAE  Toulouse France"
+      ]
+    },
+    {
+      "name": "Pascal Pujol",
+      "affiliations": [
+        "CREEC/CANECEV, MIVEGEC (CREES) Department University of Montpellier, CNRS, IRD  Montpellier France",
+        "Oncogenetic Department University Medical Centre of Montpellier  Montpellier France"
+      ]
+    },
+    {
+      "name": "Beata Ujvari",
+      "affiliations": [
+        "School of Life and Environmental Sciences Deakin University  Waurn Ponds Victoria Australia"
+      ]
+    },
+    {
+      "name": "James DeGregori",
+      "affiliations": [
+        "Department of Biochemistry and Molecular Genetics University of Colorado Anschutz Medical Campus  Aurora Colorado USA"
+      ]
+    },
+    {
+      "name": "Aurora M. Nedelcu",
+      "affiliations": [
+        "Department of Biology University of New Brunswick  Fredericton New Brunswick Canada"
+      ]
+    },
+    {
+      "name": "Frédéric Thomas",
+      "affiliations": [
+        "CREEC/CANECEV, MIVEGEC (CREES) Department University of Montpellier, CNRS, IRD  Montpellier France"
+      ]
+    }
+  ],
+  "year": 2025,
+  "journal": "Aging Cell",
+  "pmid": "40910442",
+  "pmcid": null,
+  "collection_date": "2025-10-09"
+}

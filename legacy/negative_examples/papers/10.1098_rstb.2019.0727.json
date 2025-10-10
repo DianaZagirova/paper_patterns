@@ -1,0 +1,40 @@
+{
+  "doi": "10.1098/rstb.2019.0727",
+  "title": "Ageing and sociality: why, when and how does sociality change ageing patterns?",
+  "abstract": "Individual lifespans vary tremendously between and also within species, but the proximate and ultimate causes of different ageing speeds are still not well understood. Sociality appears to be associated with the evolution of greater longevity and probably also with a larger plasticity of the shape and pace of ageing. For example, reproductives of several termites and ants reach lifespans that surpass those of their non-reproductive nestmates by one or two decades. In this issue, 15 papers explore the interrelations between sociality and individual longevity in both, group-living vertebrates and social insects. Here, we briefly give an overview of the contents of the various contributions, including theoretical and comparative studies, and we explore the similarities and dissimilarities in proximate mechanisms underlying ageing among taxa, with particular emphasis on nutrient-sensing pathways and, in insects, juvenile hormone. These studies point to an underestimated role of more downstream processes. We highlight the need for reliable transcriptomic markers of ageing and a comprehensive ageing theory of social animals, which includes the reproductive potential of workers, and considers the fact that social insect queens reach maturity only after a prolonged period of producing non-reproductive workers. This article is part of the theme issue 'Ageing and sociality: why, when and how does sociality change ageing patterns?'",
+  "full_text": {},
+  "mesh_terms": [
+    "Aging",
+    "Animals",
+    "Humans",
+    "Social Behavior"
+  ],
+  "keywords": [
+    "fitness",
+    "lifespan",
+    "senescence",
+    "social insects",
+    "social vertebrates"
+  ],
+  "citation_count": 43,
+  "authors": [
+    {
+      "name": "Judith Korb",
+      "affiliations": [
+        "Department of Evolutionary Biology and Ecology, University of Freiburg, Hauptstrasse 1, 79104 Freiburg, Germany"
+      ]
+    },
+    {
+      "name": "Jürgen Heinze",
+      "affiliations": [
+        "Department of Zoology/Evolutionary Biology, University of Regensburg, Universitätsstraße, 93040 Regensburg, Germany"
+      ]
+    }
+  ],
+  "year": 2021,
+  "journal": "Philosophical Transactions of the Royal Society B: Biological Sciences",
+  "pmid": "33678019",
+  "pmcid": "PMC7938171",
+  "collection_date": "2025-10-09",
+  "is_negative_example": true
+}

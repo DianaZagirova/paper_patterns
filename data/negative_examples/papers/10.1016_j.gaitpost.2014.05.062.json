@@ -1,0 +1,48 @@
+{
+  "doi": "10.1016/j.gaitpost.2014.05.062",
+  "title": "A comparison of two walking while talking paradigms in aging",
+  "abstract": "BACKGROUND: Our study aimed to [1] compare dual-task costs in gait and cognitive performance during two dual-task paradigms: walking while reciting alternate letters of the alphabet (WWR) and walking while counting backward by sevens (WWC); [2] examine the relationship between the gait and cognitive interference tasks when performed concurrently.\nSCOPE: Gait and cognitive performance were tested in 217 non-demented older adults (mean age 76 ± 8.8 years; 56.2% female) under single and dual-task conditions. Velocity (cm/s) was obtained using an instrumented walkway. Cognitive performance was assessed using accuracy ratio: [correct responses]/[total responses]. Linear mixed effects models revealed significant dual-task costs, with slower velocity (p < .01) and decreased accuracy ratio (p < .01) in WWR and WWC compared to their respective single task conditions. Greater dual-task costs in velocity (p < .01) were observed in WWC compared to WWR. Pearson correlations revealed significant and positive relationships between gait and cognitive performance in WWR and WWC (p < .01); increased accuracy ratio was associated with faster velocity.\nCONCLUSIONS: Our findings suggested that dual-task costs in gait increase as the complexity of the cognitive task increases. Furthermore, the positive association between the gait and cognitive tasks suggest that dual-task performance was not influenced by task prioritization strategies in this sample.",
+  "full_text": {},
+  "mesh_terms": [
+    "Aged",
+    "Aged, 80 and over",
+    "Aging",
+    "Cognition",
+    "Female",
+    "Humans",
+    "Longitudinal Studies",
+    "Male",
+    "Software",
+    "Speech",
+    "Task Performance and Analysis",
+    "Walking"
+  ],
+  "keywords": [
+    "Attention",
+    "Dual-task",
+    "Elderly",
+    "Walking",
+    "Walking while talking"
+  ],
+  "citation_count": 37,
+  "authors": [
+    {
+      "name": "Clara Li",
+      "affiliations": []
+    },
+    {
+      "name": "Joe Verghese",
+      "affiliations": []
+    },
+    {
+      "name": "Roee Holtzer",
+      "affiliations": []
+    }
+  ],
+  "year": 2014,
+  "journal": "Gait &amp; Posture",
+  "pmid": "24973141",
+  "pmcid": "PMC4131281",
+  "collection_date": "2025-10-09",
+  "is_negative_example": true
+}

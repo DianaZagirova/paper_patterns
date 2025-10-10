@@ -1,0 +1,34 @@
+{
+  "doi": "10.1007/s40656-021-00402-w",
+  "title": "Can aging research generate a theory of health?",
+  "abstract": "While aging research and policy aim to promote 'health' at all ages, there remains no convincing explanation of what this 'health' is. In this paper, I investigate whether we can find, implicit within the sciences of aging, a way to know what health is and how to measure it, i.e. a theory of health. To answer this, I start from scientific descriptions of aging and its modulators and then try to develop some generalizations about 'health' implicit within this research. After discussing some of the core aspects of aging and the ways in which certain models describe spatial and temporal features specific to both aging and healthy phenotypes, I then extract, explicate, and evaluate one potential construct of health in these models. This suggests a theory of health based on the landscape of optimized phenotypic trajectories. I conclude by considering why it matters for more candidate theories to be proposed and evaluated by philosophers and scientists alike.",
+  "full_text": {},
+  "mesh_terms": [
+    "Aging",
+    "Health",
+    "Humans",
+    "Models, Theoretical",
+    "Phenotype"
+  ],
+  "keywords": [
+    "Costs and trade-offs",
+    "Hormesis",
+    "Phenotypic trajectory",
+    "Referent analysis",
+    "Sciences of aging",
+    "Theory of health"
+  ],
+  "citation_count": 13,
+  "authors": [
+    {
+      "name": "Jonathan Sholl",
+      "affiliations": []
+    }
+  ],
+  "year": 2021,
+  "journal": "History and Philosophy of the Life Sciences",
+  "pmid": "33768353",
+  "pmcid": null,
+  "collection_date": "2025-10-09",
+  "is_negative_example": true
+}

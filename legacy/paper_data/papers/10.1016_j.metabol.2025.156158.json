@@ -1,0 +1,46 @@
+{
+  "doi": "10.1016/j.metabol.2025.156158",
+  "title": "Metabolaging: a new geroscience perspective linking aging pathologies and metabolic dysfunction",
+  "abstract": "With age, our metabolic systems undergo significant alterations, which can lead to a cascade of adverse effects that are implicated in both metabolic disorders, such as diabetes, and in the body's ability to respond to acute stress and trauma. To elucidate the metabolic imbalances arising from aging, we introduce the concept of \"metabolaging.\" This framework encompasses the broad spectrum of metabolic disruptions associated with the hallmarks of aging, including the functional decline of key metabolically active organs, like the adipose tissue. By examining how these organs interact with essential nutrient-sensing pathways, \"metabolaging\" provides a more comprehensive view of the systemic metabolic imbalances that occur with age. This concept extends to understanding how age-related metabolic disturbances can influence the response to acute stressors, like burn injuries, highlighting the interplay between metabolic dysfunction and the ability to handle severe physiological challenges. Finally, we propose potential interventions that hold promise in mitigating the effects of metabolaging and its downstream consequences.",
+  "full_text": {},
+  "mesh_terms": [
+    "Humans",
+    "Aging",
+    "Metabolic Diseases",
+    "Geroscience",
+    "Animals"
+  ],
+  "keywords": [
+    "Adipose tissue",
+    "Aging",
+    "Burn injury",
+    "Hypermetabolism",
+    "Inflammaging",
+    "Metabolaging",
+    "Metabolism"
+  ],
+  "citation_count": 6,
+  "authors": [
+    {
+      "name": "Fadi Khalaf",
+      "affiliations": []
+    },
+    {
+      "name": "Dalia Barayan",
+      "affiliations": []
+    },
+    {
+      "name": "Sean Saldanha",
+      "affiliations": []
+    },
+    {
+      "name": "Marc G. Jeschke",
+      "affiliations": []
+    }
+  ],
+  "year": 2025,
+  "journal": "Metabolism",
+  "pmid": "39947519",
+  "pmcid": null,
+  "collection_date": "2025-10-09"
+}

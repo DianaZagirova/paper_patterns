@@ -1,0 +1,36 @@
+{
+  "doi": "10.1016/j.mad.2021.111583",
+  "title": "The tumor suppression theory of aging",
+  "abstract": "Despite continued increases in human life expectancy, the factors determining the rate of human biological aging remain unknown. Without understanding the molecular mechanisms underlying aging, efforts to prevent aging are unlikely to succeed. The tumor suppression theory of aging introduced here proposes somatic mutation as the proximal cause of aging, but postulates that oncogenic transformation and clonal expansion, not functional impairment, are the relevant consequences of somatic mutation. Obesity and caloric restriction accelerate and decelerate aging due to their effect on cell proliferation, during which most mutations arise. Most phenotypes of aging are merely tumor-suppressive mechanisms that evolved to limit malignant growth, the dominant age-related cause of death in early and middle life. Cancer limits life span for most long-lived mammals, a phenomenon known as Peto's paradox. Its conservation across species demonstrates that mutation is a fundamental but hard limit on mammalian longevity. Cell senescence and apoptosis and differentiation induced by oncogenes, telomere shortening or DNA damage evolved as a second line of defense to limit the tumorigenic potential of clonally expanding cells, but accumulating senescent cells, senescence-associated secretory phenotypes and stem cell exhaustion eventually cause tissue dysfunction and the majority, if not most, phenotypes of aging.",
+  "full_text": {},
+  "mesh_terms": [
+    "Aging",
+    "Caloric Restriction",
+    "Carcinogenesis",
+    "Cell Self Renewal",
+    "Cell Transformation, Neoplastic",
+    "Clonal Evolution",
+    "Humans",
+    "Longevity",
+    "Mutation Accumulation"
+  ],
+  "keywords": [
+    "Aging",
+    "Cancer",
+    "Cell senescence",
+    "Somatic mutation",
+    "Tumor suppression"
+  ],
+  "citation_count": 13,
+  "authors": [
+    {
+      "name": "Alexander M. Wolf",
+      "affiliations": []
+    }
+  ],
+  "year": 2021,
+  "journal": "Mechanisms of Ageing and Development",
+  "pmid": "34637937",
+  "pmcid": null,
+  "collection_date": "2025-10-09"
+}

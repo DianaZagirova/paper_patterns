@@ -1,0 +1,157 @@
+--- Response ---
+
+Below is a synthesis of the strongest, most discriminative signals that separate genuine aging theory papers from look‑alike but non‑theory works, derived from a deep comparison of the provided golden set and negative examples.
+
+1) DISTINGUISHING CHARACTERISTICS of genuine aging theory papers
+
+Scope and intent
+- Aim to explain why organisms age and/or propose a unifying causal framework for the aging process across taxa, rather than focusing on a single organ, disease, care model, or psychosocial topic.
+  - Examples: hyperfunction/programmatic frameworks (Gems 2022, Ageing Res Rev); tumor suppression theory (Wolf 2021, Mech Ageing Dev); redox theory (Go & Jones 2017, Clin Sci); information theory of aging (Lu/Tian/Sinclair 2023, Nat Aging); epigenetic clock theory (Horvath & Raj 2018, Nat Rev Genet); brain–body energy conservation model (Shaulson/Cohen/Picard 2024, Nat Aging); developmental continuity (Walker 2022, Cells); “overview of contemporary theories” (de Magalhães 2025, Nat Cell Biol).
+
+Conceptual framing
+- Engage explicitly with classic evolutionary aging theory canon and/or integrate ultimate–proximate reasoning (Medawar mutation accumulation; Williams antagonistic pleiotropy; Kirkwood disposable soma), or propose a named alternative/unifying framework (e.g., hyperfunction, developmental/quasi‑program, redox, information/entropy, complex systems).
+  - Examples: Gems 2022 integrates AP vs disposable soma; Wensink & Cohen 2022 (Danaid theory) bridges development, constraints, and evolution; McAuley 2024 reviews classics and pluralism; Beckman & Ames 1998 revisits free radical theory; Cohen et al. 2022 positions aging in complex systems theory.
+
+Generality and predictions
+- Make general predictions about lifespan/aging patterns across species, effects of interventions (e.g., CR/DR), or broad phenotypes (senescence patterns, Gompertz, Peto’s paradox), not only organ- or disease‑specific outcomes.
+  - Examples: entropy model predicts CR lifespan effects (Speakman et al. 2023, PNAS); tumor suppression theory invokes clonal expansion and Peto’s paradox (Wolf 2021).
+
+Integration across mechanisms
+- Synthesize multiple hallmarks/pathways into a cohesive explanatory framework (e.g., redox networks/exposome; information loss and reprogramming; complex network dysregulation).
+  - Examples: Go & Jones 2017 (redox and exposome), Cohen 2015/2022 (complex systems, emergent processes).
+
+Publication types and language
+- Often Reviews/Perspectives/Hypotheses, but some original research is theory‑anchored (e.g., entropy PNAS paper).
+- Characteristic phrasing: “we propose a theory/framework,” “ultimate and proximate causes,” “unifying model,” “across taxa,” “evolution of aging,” “why we age,” “Gompertzian,” “Peto’s paradox,” “antagonistic pleiotropy,” “disposable soma,” “mutation accumulation,” “program/quasi‑program/hyperfunction.”
+
+Metadata regularities
+- MeSH frequently includes Aging [MAJR] with Models, Biological and/or Biological Evolution; often Longevity. Not sufficient alone but helpful in combination.
+  - Examples: de Magalhães 2025 (Aging; Models, Biological), Wolf 2021 (Aging; Longevity; Mutation Accumulation), Go & Jones 2017 (Aging; Models, Biological; Oxidation‑Reduction), Horvath & Raj 2018 (Aging; Epigenesis, Genetic).
+
+2) COMMON FALSE POSITIVES (patterns in negative examples)
+
+Domain drift away from “why aging occurs”
+- Practice/policy/geriatric care, resilience, wellbeing, sports, sociology/humanities, religion-and-health: use “paradigm,” “theory,” “aging” but not as biological aging theories.
+  - Examples: “Healthy ageing, resilience and wellbeing” (Cosco 2017); “Training the ageing bodies” (Kamp 2023); “HIV and Aging: Time for a New Paradigm” (Justice 2010); “Aging as Adaptation” (Gerontologist 2023); “Theory in Religion, Aging, and Health” (2010).
+
+Organ-, tissue-, or disease‑restricted “theories”
+- Narrow “theory” applied to a specific organ/system (facial, bone, ovarian, blood niche), not a general explanatory model of organismal aging.
+  - Examples: “Science and Theory behind Facial Aging” (2013); “Aging and Bone” (2010); “Early ovarian ageing: a hypothesis” (2003); “Seed-and-soil theory for blood ageing” (Ambrosi & Chan 2023).
+
+Intervention/commercial/cosmetic focus
+- “Anti‑aging” products, sunscreens/cosmeceuticals or cosmetics‑focused literature.
+  - Example: “Anti‑aging and Sunscreens” (2019).
+
+Mechanistic biomedical papers without theory framing
+- High-impact mechanistic studies on aging-related biology that neither engage the classic theory canon nor propose a general aging framework; organ/cell-type specific (e.g., stemness and iron homeostasis).
+  - Example: Zhuang et al. 2024, Nature (lung stemness/iron).
+
+Methodological/editorial complexity perspectives not proposing a theory
+- Complexity/biomarker/frailty editorialization without a clear aging-theory proposition.
+  - Example: Cohen & Olde Rikkert 2024, J Gerontol A editorial (contrast with Cohen 2015/2022 that explicitly theorize aging via complex systems).
+
+Ambiguous “hypothesis” papers positing a single proximate cause
+- Present a single-mechanism cause of aging without integrating evolution, cross‑taxa predictions, or engagement with the theory canon; limited scope and theoretical development.
+  - Example: “Aging by autodigestion” (PLOS ONE 2024).
+
+3) DISCRIMINATIVE FEATURES (practical indicators)
+
+Positive indicators (presence increases likelihood of true aging theory)
+- Title/abstract:
+  - Mentions “theory/theories of aging,” “framework,” “model of aging,” “ultimate and proximate,” “evolution of aging,” “why we age,” or names of classic theories (antagonistic pleiotropy, disposable soma, mutation accumulation) or widely recognized modern frameworks (hyperfunction/quasi‑program, developmental theory, epigenetic clock theory, free radical theory, information theory of aging, redox theory, complex systems, entropy/thermodynamics, Peto’s paradox, Gompertz).
+  - Claims generality across species or explicitly links patterns across taxa/life histories.
+- Abstract content:
+  - Integrates mechanisms with evolutionary logic; proposes unifying principles; makes broad predictions about lifespan and responses to canonical interventions (CR/DR).
+  - Uses programmatic language: “we propose/argue,” “unifying,” “integrates,” “pluralistic,” “pressing need for robust theoretical framework.”
+  - Cites canonical authors/theories (Medawar, Williams, Kirkwood; or modern: Gems, de Magalhães, Horvath, Cohen, Sinclair, Speakman).
+- MeSH combinations:
+  - Aging [MAJR] together with Models, Biological and/or Biological Evolution and/or Philosophy; often Longevity.
+- Publication type:
+  - Reviews, Perspectives, Hypotheses, Conceptual frameworks; some original research explicitly theory‑anchored.
+
+Negative indicators (presence increases likelihood of false positive)
+- Domain/organ qualifiers in title/abstract: facial/bone/ovarian/skin/cosmetic/sports/athlete/psychology/wellbeing/religion/policy/nursing/social care/HIV‑specific “paradigm.”
+- Product/intervention/commercial terms: sunscreen, cosmetic, cosmeceutical, moisturizer, botulinum toxin, patents.
+- MeSH terms emphasizing Healthy Aging, Quality of Life, Athletes, Cosmetics, Social Behavior, Religion, specific organ disease without Models, Biological/Evolution.
+- Absence of engagement with classic theory canon; no explicit general “why we age” claims; narrow mechanistic focus.
+
+4) SEARCH STRATEGY (PubMed) to maximize recall and precision
+
+Step 1: High‑specificity “theory” and canon seed
+- ("Aging"[Majr] OR aging[tiab] OR ageing[tiab])
+  AND
+  (
+    "theory"[tiab] OR theories[tiab] OR framework*[tiab] OR model*[tiab] OR hypothesis[tiab]
+    OR "antagonistic pleiotropy"[tiab] OR "disposable soma"[tiab] OR "mutation accumulation"[tiab]
+    OR hyperfunction[tiab] OR "quasi-program*"[tiab] OR programmatic[tiab]
+    OR "information theory"[tiab] OR entropy[tiab]
+    OR "epigenetic clock"[tiab] OR "clock theory"[tiab]
+    OR "free radical theory"[tiab] OR redox[tiab]
+    OR "complex systems"[tiab] OR "Gompertz"[tiab] OR "Peto's paradox"[tiab]
+  )
+  AND ("Models, Biological"[MeSH] OR "Biological Evolution"[MeSH] OR "Philosophy"[MeSH] OR Longevity[MeSH])
+
+Step 2: Expand recall with named modern theories and authors
+- Add OR terms: "hyperfunction theory"[tiab]; "Danaid theory"[tiab]; "tumor suppression theory"[tiab]; "reproductive-cell cycle"[tiab]; "brain-body energy conservation"[tiab]; "redox theory of aging"[tiab]; "information theory of aging"[tiab]; "developmental theory of aging"[tiab]; "epigenetic clock theory"[tiab].
+- Add influential author+context pairs in title/abstract to capture overviews: (Medawar[tiab] OR Williams[tiab] OR Kirkwood[tiab]) AND (aging[tiab] OR ageing[tiab]).
+
+Step 3: Precision filters (exclude common false positives)
+- NOT (facial[tiab] OR dermatolog*[tiab] OR sunscreen*[tiab] OR cosmetic*[tiab] OR cosmeceut*[tiab] OR athlete*[tiab] OR sports[tiab] OR gait[tiab] OR walking[tiab] OR wellbeing[tiab] OR "healthy aging"[tiab] OR policy[tiab] OR nursing[tiab] OR sociology[tiab] OR religion[tiab] OR HIV[tiab] OR "ovarian"[tiab] OR bone[tiab] OR "blood ageing"[tiab] OR hematopo*[tiab] OR "false memory"[tiab])
+- NOT (Cosmetics[MeSH] OR Athletes[MeSH] OR "Healthy Aging"[MeSH] OR "Quality of Life"[MeSH] OR Religion[MeSH] OR "Social Behavior"[MeSH] OR "Dermatology"[MeSH] OR "Skin Aging"[MeSH])
+
+Step 4: Broaden cautiously to capture theory‑anchored original research
+- Remove the explicit “theory/hypothesis” keyword block but keep canon terms and MeSH pairing, then apply classifier (below) downstream.
+
+Operational notes
+- Run two passes: a high‑precision pass (Steps 1–3) to get core theory papers and a high‑recall pass (Steps 1–2 with fewer NOTs) to net theory‑anchored originals like the entropy study (Speakman 2023, PNAS) that may lack “theory” in the title.
+- Use PubMed filters for Article types: Review, Systematic Review, Editorial, Classical Article, but do not exclude Original Research; the entropy PNAS paper is a positive example.
+
+5) CLASSIFICATION RULES (decision tree)
+
+Rule 1: Scope and claim check
+- If title/abstract claims to explain why aging occurs or proposes/assesses theories of aging across taxa or at organismal/system level → go to Rule 2.
+- If primary focus is a specific organ/system/disease, clinical practice/policy, psychosocial domain, cosmetics, sports → classify as NOT theory (negative). Examples: facial aging review; sports master athletes; wellbeing/policy; religion and health; organ‑specific hypotheses (ovarian aging); blood niche “seed‑and‑soil.”
+
+Rule 2: Theory canon engagement
+- If abstract mentions classic aging theories (antagonistic pleiotropy, disposable soma, mutation accumulation) or modern frameworks (hyperfunction/quasi‑program, information/entropy, redox, epigenetic clock, complex systems) OR uses explicit ultimate–proximate/evolutionary language (“declining selection,” “life history,” “Peto’s paradox,” “Gompertz”) → strong positive.
+  - Examples: Gems 2022; Wensink & Cohen 2022; McAuley 2024; Wolf 2021; Horvath & Raj 2018; Go & Jones 2017; de Magalhães 2025.
+
+Rule 3: Generality and predictions
+- If paper presents general predictions about lifespan/aging patterns (across species, interventions like CR/DR) or integrates multiple mechanisms into a unifying model → positive.
+  - Example: Speakman 2023 entropy; Shaulson et al. 2024 BEC model; Go & Jones 2017 redox network resilience.
+
+Rule 4: Metadata reinforcement
+- MeSH includes Aging [MAJR] AND (Models, Biological OR Biological Evolution OR Philosophy OR Longevity) = positive weight.
+- If MeSH emphasizes Healthy Aging, Quality of Life, Cosmetics, Athletes, Social Behavior, or organ‑specific headings without Models/Evolution terms = negative weight.
+
+Rule 5: Edge‑case adjudication
+- Single‑mechanism hypothesis papers:
+  - If framed as a general theory of aging engaging with canon/evolution (e.g., tumor suppression theory, Wolf 2021) → positive.
+  - If narrow, lacks engagement with canon/evolution, organ/tissue data only (e.g., autodigestion hypothesis, PLOS ONE 2024) → negative.
+- Complexity editorials:
+  - If they articulate a theory of aging (Cohen 2015; Cohen et al. 2022) → positive.
+  - If they are methods/field editorials without theory claims (Cohen & Olde Rikkert 2024) → negative.
+
+6) EDGE CASES illustrating classification difficulty
+
+- “Aging by autodigestion” (PLOS ONE 2024): Proposes a broad-sounding mechanism but is a rat tissue immunohistochemistry study with limited theoretical integration and no engagement with evolutionary canon; class as negative despite “aging mechanism” language.
+
+- “The role of cellular senescence in ageing and endocrine disease” (Nat Rev Endocrinol 2020): Mechanistic/hallmark review proposing therapeutic targeting; not a general theory of aging; negative.
+
+- “A seed‑and‑soil theory for blood ageing” (Nat Cell Biol 2023): Uses “theory” but is cell‑system specific (hematopoiesis niche); negative.
+
+- “A complex systems approach to aging biology” (Nat Aging 2022) vs “The Power of a Complex Systems Perspective” (J Gerontol A 2024): The former builds an explicit theoretical framework for aging (positive); the latter is a special‑issue editorial emphasizing methods and practice (negative).
+
+- “Metabolaging” perspective (Metabolism 2025): Conceptual geroscience synthesis linking metabolism to hallmarks and systemic aging—falls within theory/perspective (positive).
+
+- “A step toward precision gerontology … entropy generation” (PNAS 2023): Original research strongly anchored in a theoretical thermodynamic model consistent with aging theory; positive though “theory” is not in the title.
+
+- Organ‑specific “aging” reviews such as facial, bone, ovarian aging (negative), despite frequent use of “theory” language.
+
+Summary of the most discriminative signals
+- Positive: explicit aim to explain why aging occurs; engagement with aging theory canon or modern unifying frameworks; cross‑taxa generality and predictions; integration of mechanisms; Aging [MAJR] with Models/Evolution MeSH; theory/perspective language; evolutionary/proximate‑ultimate vocabulary.
+- Negative: domain‑specific (organ/disease/practice/policy/psychosocial/cosmetic/sports) focus; “anti‑aging” product framing; lack of engagement with the theory canon; absence of general claims; MeSH emphasizing Healthy Aging, Cosmetics, Athletes, Social Behavior; editorials without theory claims.
+
+Applying these discriminants with the search and rules above will maximize precision while retaining recall for theory‑anchored original research that may omit “theory” in titles/abstracts.
+
+----------------

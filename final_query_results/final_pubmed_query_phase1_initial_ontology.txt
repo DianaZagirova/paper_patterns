@@ -1,0 +1,14 @@
+(
+  (
+    aging[Title] OR ageing[Title] 
+  )
+  AND
+  (
+    theory[Title] OR theories[Title] OR hypothesis[Title] OR hypotheses[Title]  OR paradigm[Title] OR paradigms[Title]
+  )
+  
+)
+NOT
+(
+  Case Reports[Publication Type] OR "case report"[Title] OR "case reports"[Title] OR Clinical Trial[Publication Type] OR "protocol"[Title] OR "conference"[Title] OR "meeting"[Title] OR “healthy aging”[TI] OR “healthy ageing”[TI] OR “successful aging”[TI] OR “successful ageing”[TI] OR “ovarian”[TI] OR “liver”[TI] OR “kidne*”[TI] OR “HIV*”[TI] OR “religion”[TI] OR “enjoyment”[TI]
+)

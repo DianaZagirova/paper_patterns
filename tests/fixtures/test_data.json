@@ -1,0 +1,405 @@
+{
+  "pmc-articleset": {
+    "article": {
+      "front": {
+        "journal-meta": {
+          "journal-id": [
+            {
+              "@journal-id-type": "nlm-ta",
+              "#text": "Ageing Res Rev"
+            },
+            {
+              "@journal-id-type": "iso-abbrev",
+              "#text": "Ageing Res. Rev."
+            },
+            {
+              "@journal-id-type": "pmc-domain-id",
+              "#text": "319"
+            },
+            {
+              "@journal-id-type": "pmc-domain",
+              "#text": "nihpa"
+            }
+          ],
+          "journal-title-group": {
+            "journal-title": "Ageing research reviews"
+          },
+          "issn": [
+            {
+              "@pub-type": "ppub",
+              "#text": "1568-1637"
+            },
+            {
+              "@pub-type": "epub",
+              "#text": "1872-9649"
+            }
+          ],
+          "custom-meta-group": {
+            "custom-meta": [
+              {
+                "meta-name": "pmc-is-collection-domain",
+                "meta-value": "yes"
+              },
+              {
+                "meta-name": "pmc-collection-title",
+                "meta-value": "NIHPA Author Manuscripts"
+              }
+            ]
+          }
+        },
+        "article-meta": {
+          "article-id": [
+            {
+              "@pub-id-type": "pmcid",
+              "#text": "PMC5991498"
+            },
+            {
+              "@pub-id-type": "pmcid-ver",
+              "#text": "PMC5991498.1"
+            },
+            {
+              "@pub-id-type": "pmcaid",
+              "#text": "5991498"
+            },
+            {
+              "@pub-id-type": "pmcaiid",
+              "#text": "5991498"
+            },
+            {
+              "@pub-id-type": "manuscript-id",
+              "#text": "NIHMS858344"
+            },
+            {
+              "@pub-id-type": "pmid",
+              "#text": "27353257"
+            },
+            {
+              "@pub-id-type": "doi",
+              "#text": "10.1016/j.arr.2016.06.005"
+            },
+            {
+              "@pub-id-type": "manuscript-id-alternative",
+              "#text": "NIHMS858344"
+            },
+            {
+              "@pub-id-type": "manuscript-id-alternative",
+              "#text": "NIHPA858344"
+            }
+          ],
+          "article-version": {
+            "@article-version-type": "pmc-version",
+            "#text": "1"
+          },
+          "article-categories": {
+            "subj-group": {
+              "subject": "Article",
+              "@subj-group-type": "heading"
+            }
+          },
+          "title-group": {
+            "article-title": "A synopsis on aging—Theories, mechanisms and future prospects"
+          },
+          "contrib-group": {
+            "contrib": [
+              {
+                "name": {
+                  "surname": "da Costa",
+                  "given-names": {
+                    "@initials": "JP",
+                    "#text": "João Pinto"
+                  },
+                  "@name-style": "western"
+                },
+                "xref": {
+                  "@ref-type": "aff",
+                  "@rid": "A1",
+                  "#text": "a"
+                },
+                "@contrib-type": "author"
+              },
+              {
+                "name": {
+                  "surname": "Vitorino",
+                  "given-names": {
+                    "@initials": "R",
+                    "#text": "Rui"
+                  },
+                  "@name-style": "western"
+                },
+                "xref": [
+                  {
+                    "@ref-type": "aff",
+                    "@rid": "A2",
+                    "#text": "b"
+                  },
+                  {
+                    "@ref-type": "aff",
+                    "@rid": "A3",
+                    "#text": "c"
+                  }
+                ],
+                "@contrib-type": "author"
+              },
+              {
+                "name": {
+                  "surname": "Silva",
+                  "given-names": {
+                    "@initials": "GM",
+                    "#text": "Gustavo M."
+                  },
+                  "@name-style": "western"
+                },
+                "xref": {
+                  "@ref-type": "aff",
+                  "@rid": "A4",
+                  "#text": "d"
+                },
+                "@contrib-type": "author"
+              },
+              {
+                "name": {
+                  "surname": "Vogel",
+                  "given-names": {
+                    "@initials": "C",
+                    "#text": "Christine"
+                  },
+                  "@name-style": "western"
+                },
+                "xref": {
+                  "@ref-type": "aff",
+                  "@rid": "A4",
+                  "#text": "d"
+                },
+                "@contrib-type": "author"
+              },
+              {
+                "name": {
+                  "surname": "Duarte",
+                  "given-names": {
+                    "@initials": "AC",
+                    "#text": "Armando C."
+                  },
+                  "@name-style": "western"
+                },
+                "xref": {
+                  "@ref-type": "aff",
+                  "@rid": "A1",
+                  "#text": "a"
+                },
+                "@contrib-type": "author"
+              },
+              {
+                "name": {
+                  "surname": "Rocha-Santos",
+                  "given-names": {
+                    "@initials": "T",
+                    "#text": "Teresa"
+                  },
+                  "@name-style": "western"
+                },
+                "xref": {
+                  "@ref-type": "aff",
+                  "@rid": "A1",
+                  "#text": "a"
+                },
+                "@contrib-type": "author"
+              }
+            ]
+          },
+          "aff": [
+            {
+              "label": "a",
+              "@id": "A1"
+            },
+            {
+              "label": "b",
+              "@id": "A2"
+            },
+            {
+              "label": "c",
+              "@id": "A3"
+            },
+            {
+              "label": "d",
+              "@id": "A4"
+            }
+          ],
+          "author-notes": {
+            "corresp": {
+              "label": "*",
+              "email": [
+                "jpintocosta@ua.pt",
+                "joao.pinto.da.costa@gmail.com"
+              ],
+              "@id": "FN1"
+            },
+            "fn": {
+              "p": {
+                "bold": "Conflict of interest:"
+              },
+              "@fn-type": "COI-statement",
+              "@id": "FN2"
+            }
+          },
+          "pub-date": [
+            {
+              "day": "25",
+              "month": "6",
+              "year": "2016",
+              "@pub-type": "epub"
+            },
+            {
+              "month": "8",
+              "year": "2016",
+              "@pub-type": "ppub"
+            }
+          ],
+          "volume": "29",
+          "issue-id": {
+            "@pub-id-type": "pmc-issue-id",
+            "#text": "314762"
+          },
+          "fpage": "90",
+          "lpage": "112",
+          "pub-history": {
+            "event": [
+              {
+                "date": {
+                  "day": "31",
+                  "month": "05",
+                  "year": "2018"
+                },
+                "@event-type": "nihms-submitted"
+              },
+              {
+                "date": {
+                  "day": "07",
+                  "month": "06",
+                  "year": "2018"
+                },
+                "@event-type": "pmc-release"
+              },
+              {
+                "date": {
+                  "day": "07",
+                  "month": "06",
+                  "year": "2018"
+                },
+                "@event-type": "pmc-live"
+              },
+              {
+                "date": {
+                  "day": "18",
+                  "month": "06",
+                  "year": "2024",
+                  "@iso-8601-date": "2024-06-18 03:25:31.927"
+                },
+                "@event-type": "pmc-last-change"
+              }
+            ]
+          },
+          "self-uri": {
+            "@content-type": "pmc-pdf",
+            "@{http://www.w3.org/1999/xlink}href": "nihms858344.pdf"
+          },
+          "abstract": {
+            "p": [
+              {
+                "@id": "P1",
+                "#text": "Answering the question as to why we age is tantamount to answering the question of what is life itself. There are countless theories as to why and how we age, but, until recently, the very definition of aging – senescence – was still uncertain. Here, we summarize the main views of the different models of senescence, with a special emphasis on the biochemical processes that accompany aging."
+              },
+              {
+                "@id": "P2",
+                "#text": "Though inherently complex, aging is characterized by numerous changes that take place at different levels of the biological hierarchy. We therefore explore some of the most relevant changes that take place during aging and, finally, we overview the current status of emergent aging therapies and what the future holds for this field of research."
+              },
+              {
+                "@id": "P3",
+                "#text": "From this multi-dimensional approach, it becomes clear that an integrative approach that couples aging research with systems biology, capable of providing novel insights into how and why we age, is necessary."
+              }
+            ]
+          },
+          "kwd-group": {
+            "kwd": [
+              "Aging",
+              "Senescence",
+              "Anti-aging therapies",
+              "Biochemistry",
+              "Biology"
+            ]
+          },
+          "custom-meta-group": {
+            "custom-meta": [
+              {
+                "meta-name": "pmc-status-qastatus",
+                "meta-value": "0"
+              },
+              {
+                "meta-name": "pmc-status-live",
+                "meta-value": "yes"
+              },
+              {
+                "meta-name": "pmc-status-embargo",
+                "meta-value": "no"
+              },
+              {
+                "meta-name": "pmc-status-released",
+                "meta-value": "yes"
+              },
+              {
+                "meta-name": "pmc-prop-open-access",
+                "meta-value": "no"
+              },
+              {
+                "meta-name": "pmc-prop-olf",
+                "meta-value": "no"
+              },
+              {
+                "meta-name": "pmc-prop-manuscript",
+                "meta-value": "yes"
+              },
+              {
+                "meta-name": "pmc-prop-legally-suppressed",
+                "meta-value": "no"
+              },
+              {
+                "meta-name": "pmc-prop-has-pdf",
+                "meta-value": "yes"
+              },
+              {
+                "meta-name": "pmc-prop-has-supplement",
+                "meta-value": "no"
+              },
+              {
+                "meta-name": "pmc-prop-pdf-only",
+                "meta-value": "no"
+              },
+              {
+                "meta-name": "pmc-prop-suppress-copyright",
+                "meta-value": "no"
+              },
+              {
+                "meta-name": "pmc-prop-is-real-version",
+                "meta-value": "no"
+              },
+              {
+                "meta-name": "pmc-prop-is-scanned-article",
+                "meta-value": "no"
+              },
+              {
+                "meta-name": "pmc-prop-preprint",
+                "meta-value": "no"
+              },
+              {
+                "meta-name": "pmc-prop-in-epmc",
+                "meta-value": "yes"
+              }
+            ]
+          }
+        }
+      },
+      "@article-type": "research-article",
+      "@{http://www.w3.org/XML/1998/namespace}lang": "en",
+      "@dtd-version": "1.4"
+    }
+  }
+}

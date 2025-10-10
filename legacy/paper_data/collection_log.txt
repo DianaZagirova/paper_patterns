@@ -1,0 +1,84 @@
+[2025-10-09 03:39:01] Starting paper data collection process
+[2025-10-09 03:39:01] Loaded 0 previously processed DOIs
+[2025-10-09 03:39:01] Found 18 new DOIs to process
+[2025-10-09 03:39:01] Processing DOI: https://doi.org/10.1007/s10522-015-9584-x
+[2025-10-09 03:39:01] Processing DOI: https://doi.org/10.1007/s10522-024-10143-5
+[2025-10-09 03:39:01] Processing DOI: https://doi.org/10.1111/acel.70207
+[2025-10-09 03:39:01] Processing DOI: https://doi.org/10.1016/j.exger.2010.09.007
+[2025-10-09 03:39:01] Processing DOI: https://doi.org/10.3390/cells11050917
+[2025-10-09 03:39:06] Successfully saved data for DOI: https://doi.org/10.1016/j.exger.2010.09.007
+[2025-10-09 03:39:06] Processing DOI: https://doi.org/10.1016/j.arr.2021.101557
+[2025-10-09 03:39:07] Successfully saved data for DOI: https://doi.org/10.1111/acel.70207
+[2025-10-09 03:39:07] Processing DOI: https://doi.org/10.1038/s43587-022-00252-6
+[2025-10-09 03:39:08] Successfully saved data for DOI: https://doi.org/10.1007/s10522-015-9584-x
+[2025-10-09 03:39:08] Processing DOI: https://doi.org/10.1016/j.metabol.2025.156158
+[2025-10-09 03:39:08] Successfully saved data for DOI: https://doi.org/10.1007/s10522-024-10143-5
+[2025-10-09 03:39:08] Processing DOI: https://doi.org/10.1038/s41556-025-01698-7
+[2025-10-09 03:39:09] Successfully saved data for DOI: https://doi.org/10.3390/cells11050917
+[2025-10-09 03:39:09] Processing DOI: https://doi.org/10.1073/pnas.2300624120
+[2025-10-09 03:39:12] Successfully saved data for DOI: https://doi.org/10.1016/j.arr.2021.101557
+[2025-10-09 03:39:12] Processing DOI: https://doi.org/10.1038/s43587-024-00716-x
+[2025-10-09 03:39:12] Successfully saved data for DOI: https://doi.org/10.1038/s43587-022-00252-6
+[2025-10-09 03:39:12] Processing DOI: https://doi.org/10.1038/s43587-023-00527-6
+[2025-10-09 03:39:13] Successfully saved data for DOI: https://doi.org/10.1038/s41556-025-01698-7
+[2025-10-09 03:39:13] Processing DOI: https://doi.org/10.1038/s41576-018-0004-3
+[2025-10-09 03:39:13] Successfully saved data for DOI: https://doi.org/10.1016/j.metabol.2025.156158
+[2025-10-09 03:39:13] Processing DOI: https://doi.org/10.1042/CS20160897
+[2025-10-09 03:39:15] Successfully saved data for DOI: https://doi.org/10.1073/pnas.2300624120
+[2025-10-09 03:39:15] Processing DOI: https://doi.org/10.3389/fcell.2021.671208
+[2025-10-09 03:39:16] Successfully saved data for DOI: https://doi.org/10.1038/s43587-024-00716-x
+[2025-10-09 03:39:16] Processing DOI: https://doi.org/10.3389/fcell.2020.575645
+[2025-10-09 03:39:16] Successfully saved data for DOI: https://doi.org/10.1038/s43587-023-00527-6
+[2025-10-09 03:39:16] Processing DOI: https://doi.org/10.1016/j.mad.2021.111583
+[2025-10-09 03:39:17] Successfully saved data for DOI: https://doi.org/10.1038/s41576-018-0004-3
+[2025-10-09 03:39:17] Processing DOI: https://doi.org/10.1152/physrev.1998.78.2.547
+[2025-10-09 03:39:20] Retrying efetch for args () (Error: HTTP Error 429: Too Many Requests)
+[2025-10-09 03:39:20] Successfully saved data for DOI: https://doi.org/10.1016/j.mad.2021.111583
+[2025-10-09 03:39:21] Successfully saved data for DOI: https://doi.org/10.1152/physrev.1998.78.2.547
+[2025-10-09 03:39:21] Successfully saved data for DOI: https://doi.org/10.3389/fcell.2021.671208
+[2025-10-09 03:39:22] Successfully saved data for DOI: https://doi.org/10.3389/fcell.2020.575645
+[2025-10-09 03:39:23] Successfully saved data for DOI: https://doi.org/10.1042/CS20160897
+[2025-10-09 03:39:23] Processing complete. Successfully processed 18 out of 18 DOIs.
+[2025-10-09 03:39:23]   - 10.1016/j.exger.2010.09.007 -> 10.1016_j.exger.2010.09.007.json
+[2025-10-09 03:39:23]   - 10.1111/acel.70207 -> 10.1111_acel.70207.json
+[2025-10-09 03:39:23]   - 10.1007/s10522-015-9584-x -> 10.1007_s10522-015-9584-x.json
+[2025-10-09 03:39:23]   - 10.1007/s10522-024-10143-5 -> 10.1007_s10522-024-10143-5.json
+[2025-10-09 03:39:23]   - 10.3390/cells11050917 -> 10.3390_cells11050917.json
+[2025-10-09 03:39:23]   - 10.1016/j.arr.2021.101557 -> 10.1016_j.arr.2021.101557.json
+[2025-10-09 03:39:23]   - 10.1038/s43587-022-00252-6 -> 10.1038_s43587-022-00252-6.json
+[2025-10-09 03:39:23]   - 10.1038/s41556-025-01698-7 -> 10.1038_s41556-025-01698-7.json
+[2025-10-09 03:39:23]   - 10.1016/j.metabol.2025.156158 -> 10.1016_j.metabol.2025.156158.json
+[2025-10-09 03:39:23]   - 10.1073/pnas.2300624120 -> 10.1073_pnas.2300624120.json
+[2025-10-09 03:39:23]   - 10.1038/s43587-024-00716-x -> 10.1038_s43587-024-00716-x.json
+[2025-10-09 03:39:23]   - 10.1038/s43587-023-00527-6 -> 10.1038_s43587-023-00527-6.json
+[2025-10-09 03:39:23]   - 10.1038/s41576-018-0004-3 -> 10.1038_s41576-018-0004-3.json
+[2025-10-09 03:39:23]   - 10.1016/j.mad.2021.111583 -> 10.1016_j.mad.2021.111583.json
+[2025-10-09 03:39:23]   - 10.1152/physrev.1998.78.2.547 -> 10.1152_physrev.1998.78.2.547.json
+[2025-10-09 03:39:23]   - 10.3389/fcell.2021.671208 -> 10.3389_fcell.2021.671208.json
+[2025-10-09 03:39:23]   - 10.3389/fcell.2020.575645 -> 10.3389_fcell.2020.575645.json
+[2025-10-09 03:39:23]   - 10.1042/CS20160897 -> 10.1042_CS20160897.json
+[2025-10-09 03:39:23] Process completed in 21.72 seconds (0.36 minutes)
+[2025-10-09 05:55:55] Starting paper data collection process
+[2025-10-09 05:55:55] Loaded 18 previously processed DOIs
+[2025-10-09 05:55:55] Found 1 new DOIs to process
+[2025-10-09 05:55:55] Processing DOI: https://doi: 10.1016/j.arr.2016.06.005
+[2025-10-09 05:55:57] Successfully saved data for DOI: https://doi: 10.1016/j.arr.2016.06.005
+[2025-10-09 05:55:57] Processing complete. Successfully processed 1 out of 1 DOIs.
+[2025-10-09 05:55:57]   - https://doi: 10.1016/j.arr.2016.06.005 -> https:__doi: 10.1016_j.arr.2016.06.005.json
+[2025-10-09 05:55:57] Process completed in 1.89 seconds (0.03 minutes)
+[2025-10-11 00:13:09] Loaded 19 previously processed DOIs
+[2025-10-11 00:13:34] Loaded 19 previously processed DOIs
+[2025-10-11 00:13:34] Found 4 new DOIs to process
+[2025-10-11 00:13:34] Processing DOI: https://doi.org/10.1093/geront/4.4.195
+[2025-10-11 00:13:34] Processing DOI: https://doi.org/10.1182/blood.2021014299
+[2025-10-11 00:13:34] Processing DOI: https://doi.org/10.1016/s0891-5849(00)00317-8
+[2025-10-11 00:13:34] Processing DOI: https://doi.org/10.1016/B978-0-12-394625-6.00001-5
+[2025-10-11 00:13:37] Successfully saved data for DOI: https://doi.org/10.1093/geront/4.4.195
+[2025-10-11 00:13:37] Successfully saved data for DOI: https://doi.org/10.1016/s0891-5849(00)00317-8
+[2025-10-11 00:13:38] Successfully saved data for DOI: https://doi.org/10.1016/B978-0-12-394625-6.00001-5
+[2025-10-11 00:13:39] Successfully saved data for DOI: https://doi.org/10.1182/blood.2021014299
+[2025-10-11 00:13:39] Processing complete. Successfully processed 4 out of 4 DOIs.
+[2025-10-11 00:13:39]   - 10.1093/geront/4.4.195 -> 10.1093_geront_4.4.195.json
+[2025-10-11 00:13:39]   - 10.1016/s0891-5849(00)00317-8 -> 10.1016_s0891-5849(00)00317-8.json
+[2025-10-11 00:13:39]   - 10.1016/B978-0-12-394625-6.00001-5 -> 10.1016_B978-0-12-394625-6.00001-5.json
+[2025-10-11 00:13:39]   - 10.1182/blood.2021014299 -> 10.1182_blood.2021014299.json

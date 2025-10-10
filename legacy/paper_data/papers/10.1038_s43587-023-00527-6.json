@@ -1,0 +1,33 @@
+{
+  "doi": "10.1038/s43587-023-00527-6",
+  "title": "The Information Theory of Aging",
+  "abstract": "Information storage and retrieval is essential for all life. In biology, information is primarily stored in two distinct ways: the genome, comprising nucleic acids, acts as a foundational blueprint and the epigenome, consisting of chemical modifications to DNA and histone proteins, regulates gene expression patterns and endows cells with specific identities and functions. Unlike the stable, digital nature of genetic information, epigenetic information is stored in a digital-analog format, susceptible to alterations induced by diverse environmental signals and cellular damage. The Information Theory of Aging (ITOA) states that the aging process is driven by the progressive loss of youthful epigenetic information, the retrieval of which via epigenetic reprogramming can improve the function of damaged and aged tissues by catalyzing age reversal.",
+  "full_text": {},
+  "mesh_terms": [
+    "Epigenesis, Genetic",
+    "DNA Methylation",
+    "Information Theory",
+    "Histones"
+  ],
+  "keywords": [],
+  "citation_count": 73,
+  "authors": [
+    {
+      "name": "Yuancheng Ryan Lu",
+      "affiliations": []
+    },
+    {
+      "name": "Xiao Tian",
+      "affiliations": []
+    },
+    {
+      "name": "David A. Sinclair",
+      "affiliations": []
+    }
+  ],
+  "year": 2023,
+  "journal": "Nature Aging",
+  "pmid": "38102202",
+  "pmcid": null,
+  "collection_date": "2025-10-09"
+}
