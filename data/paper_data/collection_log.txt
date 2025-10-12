@@ -82,3 +82,15 @@
 [2025-10-11 00:13:39]   - 10.1016/s0891-5849(00)00317-8 -> 10.1016_s0891-5849(00)00317-8.json
 [2025-10-11 00:13:39]   - 10.1016/B978-0-12-394625-6.00001-5 -> 10.1016_B978-0-12-394625-6.00001-5.json
 [2025-10-11 00:13:39]   - 10.1182/blood.2021014299 -> 10.1182_blood.2021014299.json
+[2025-10-11 03:09:47] Loaded 23 previously processed DOIs
+[2025-10-11 03:09:47] Found 3 new DOIs to process
+[2025-10-11 03:09:47] Processing DOI: https://doi.org/10.1093/geront/34.6.756
+[2025-10-11 03:09:47] Processing DOI: https://doi.org/10.4161/cc.9.16.13120
+[2025-10-11 03:09:47] Processing DOI: https://doi.org/10.1093/geront/29.2.183
+[2025-10-11 03:09:51] Successfully saved data for DOI: https://doi.org/10.1093/geront/34.6.756
+[2025-10-11 03:09:51] Successfully saved data for DOI: https://doi.org/10.4161/cc.9.16.13120
+[2025-10-11 03:09:53] Successfully saved data for DOI: https://doi.org/10.1093/geront/29.2.183
+[2025-10-11 03:09:53] Processing complete. Successfully processed 3 out of 3 DOIs.
+[2025-10-11 03:09:53]   - 10.1093/geront/34.6.756 -> 10.1093_geront_34.6.756.json
+[2025-10-11 03:09:53]   - 10.4161/cc.9.16.13120 -> 10.4161_cc.9.16.13120.json
+[2025-10-11 03:09:53]   - 10.1093/geront/29.2.183 -> 10.1093_geront_29.2.183.json

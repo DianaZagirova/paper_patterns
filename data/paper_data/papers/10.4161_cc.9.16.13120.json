@@ -1,0 +1,29 @@
+{
+  "doi": "10.4161/cc.9.16.13120",
+  "title": "Revisiting the antagonistic pleiotropy theory of aging: TOR-driven program and quasi-program",
+  "abstract": "A half century ago, the antagonistic pleiotropy (AP) theory had solved a mystery of aging, by postulating genes beneficial early in life at the cost of aging. Recently it was argued however that there are very few clear-cut examples of antagonistically pleiotropic (AP) genes other than p53. In contrast, here I discuss that p53 is not a clear-cut example of AP genes but is rather an aging-suppressor (gerosuppressor). In contrast, clear-cut examples of AP genes are genes that encode the TOR (target of rapamycin) pathway. TOR itself is the ultimate example of AP gene because its deletion is lethal in embryogenesis. Early in life the TOR pathway drives developmental program, which persists later in life as an aimless quasi-program of aging and age-related diseases.",
+  "full_text": {},
+  "mesh_terms": [
+    "Aging",
+    "Antibiotics, Antineoplastic",
+    "Caloric Restriction",
+    "Genetic Pleiotropy",
+    "Signal Transduction",
+    "Sirolimus",
+    "TOR Serine-Threonine Kinases",
+    "Tumor Suppressor Protein p53"
+  ],
+  "keywords": [],
+  "citation_count": 119,
+  "authors": [
+    {
+      "name": "Mikhail V Blagosklonny",
+      "affiliations": []
+    }
+  ],
+  "year": 2010,
+  "journal": "Cell Cycle",
+  "pmid": "20724817",
+  "pmcid": null,
+  "collection_date": "2025-10-11"
+}

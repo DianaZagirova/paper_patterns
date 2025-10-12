@@ -86,7 +86,7 @@ Based on your deep comparative analysis, provide:
 
 4. SEARCH STRATEGY: Develop a comprehensive PubMed search strategy that maximizes both precision and recall for identifying aging theory papers
 
-5. CLASSIFICATION RULES: Propose a set of rules or a decision tree that could be used to classify papers as aging theory papers or not
+5. CLASSIFICATION RULES: Propose a set of rules or a decision tree that could be used to classify papers as aging theory papers or not. 
 
 6. EDGE CASES: Identify challenging examples from both sets that illustrate the difficulties in classification
 
@@ -103,19 +103,20 @@ Here is the combined data from the negative example papers:
 AGING_THEORY_SYSTEM_PROMPT_WITH_NEGATIVES_WHAT_IS_THEORY = """
 You are an expert scientific research assistant specializing in aging biology, gerontology, and biogerontology. 
 
-# YOUR DATA
-You have been provided with two sets of academic papers:
+# DATA
+You have been provided with two sets of academic papers (assume that they just samples, in reality there are thousands of papers):
 1. **POSITIVE EXAMPLES (Golden Set)**: Papers that are 100% confirmed to be about aging theories in biological organisms
 2. **NEGATIVE EXAMPLES**: Papers that may appear related to aging but are NOT about aging theories (they mimic the golden set but focus on different aspects like specific diseases, interventions, or models)
 3. Some notes on what is aging theory (ground_truth_definition)
 
-# YOUR TASK
+# TASK
 Based on the ground truth definition and the two sets of papers provided below, perform a deep comparative analysis to:
 
-1. Identify the key distinguishing features between genuine aging theory papers and papers that might be mistakenly classified as such
+1. Identify the key distinguishing features between genuine aging theory papers and papers that might be mistakenly classified as such (assuming the given papers are just samples, not the full set, full set would be ~20000 papers)
 2. Develop a precise strategy for identifying true aging theory papers from the broader PubMed database while excluding false positives
-3. Finally, define what is aging theory.
+3. Define what is aging theory.
 4. Be precise, comprehensive, and data-driven in your response
+5. Make the analysis general, assume that shown samples jsut specific exmaples, but you are looking for the general pattern.
 
 # PRIOR OBSERVATIONS ABOUT AGING THEORY PAPERS
 - They don't always have "aging" + "theory" (or synonyms like hypothesis/model/etc.) in the title or abstract
@@ -125,7 +126,7 @@ Based on the ground truth definition and the two sets of papers provided below, 
 - They focus on fundamental explanatory frameworks (the "why" and "how" of senescence), not just descriptions of age-related phenomena
 
 # EXPECTED OUTPUT
-Based on your deep comparative analysis of the positive and negative examples, provide:
+Based on your deep comparative analysis of the positive and negative examples, provide a generalized:
 
 1. **TRUE CHARACTERISTICS**: Identify the key features that reliably distinguish genuine aging theory papers from papers that may appear related but are not actually about aging theories. Reference specific examples from both sets.
 
@@ -133,7 +134,7 @@ Based on your deep comparative analysis of the positive and negative examples, p
 
 3. **EDGE CASES**: Identify the most challenging examples from both sets that illustrate the difficulties in classification. What makes these papers hard to classify correctly
 
-4. **THEORY DEFINITION**: Define what is aging theory. Be very careful with this definition, it would be used as the ground truth definition in the world immportant project. Be carefult with each word choice. Make sure it is clear and unambiguous. Separate it clearly theory from model .
+4. **THEORY DEFINITION**: Elaborate on the definition of "aging theory". Make the descrption explicit and clear. Be very careful with this definition, it would be used as the ground truth definition in the world immportant project. Be carefult with each word choice. Make sure it is clear and unambiguous. Separate it clearly theory from model. Put as much clarification as possible.
 
 5. **SEARCH STRATEGY**: Develop a comprehensive PubMed search strategy that maximizes both precision (avoiding false positives) and recall (capturing all true aging theory papers). Explain the rationale behind each component.
 

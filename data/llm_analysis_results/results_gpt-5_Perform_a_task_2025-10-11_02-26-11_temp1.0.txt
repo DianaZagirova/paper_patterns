@@ -1,0 +1,145 @@
+# LLM Analysis Results
+
+## Metadata
+- Timestamp: 2025-10-11_02-26-11
+- Model: gpt-5
+- Temperature: 1.0
+- Prompt Type: aging_theory_with_negatives_what_is_theory
+
+## Query
+Perform a task on papers analysis and formulation of aging theory. Be very careful on word choice and do not make any assumptions.
+
+## Template Used
+None
+
+## Response
+Below is a data-driven synthesis built from the provided positive (golden) and negative example sets and the given ground-truth observations. It generalizes beyond these samples to patterns likely to hold across a large PubMed corpus.
+
+1) TRUE CHARACTERISTICS: features that reliably flag genuine aging theory papers
+- Explicit theoretical intent (states a theory, proposes a new one, or critiques/organizes theories)
+  - Examples: “The Danaid Theory of Aging” (Wensink & Cohen, 2022); “The tumor suppression theory of aging” (Wolf, 2021); “Redox theory of aging” (Go & Jones, 2017); “The Information Theory of Aging” (Lu, Tian, Sinclair, 2023); “A Mechanistic Theory of Development-Aging Continuity” (Walker, 2022); “An overview of contemporary theories of ageing” (de Magalhães, 2025).
+- Scope is fundamental and general, not confined to one tissue, disease, or context
+  - Cross-species or species-general framing; explicit links to “why” and/or “how” senescence occurs rather than a single pathway or disease context. Examples: Atwood & Bowen (2011) explicitly claim explanatory reach “in all sexually reproductive life forms”; Cadenas & Davies (2000) position mitochondrial ROS as a central mechanism in “the Free Radical Theory of Aging”; Mc Auley (2024) reviews classic evolutionary theories across taxa and contexts; Go & Jones (2017) frame redox as a systems-level interface with lifelong gene–environment interactions; Lansdorp (2022) links telomere erosion and disposable soma in a unified theory perspective.
+- Integration of ultimate (evolutionary) and/or proximate (mechanistic) explanations
+  - Examples: Wensink & Cohen (2022) and Gems (2022) explicitly integrate evolutionary theory with mechanistic constraints (e.g., programmatic/hyperfunction accounts); Wolf (2021) roots a mechanistic proposal (somatic mutation → tumor suppression → senescence) within life-history constraints and Peto’s paradox.
+- Conceptual synthesis with named, general frameworks or families of theories
+  - Examples: classic evolutionary theories (mutation accumulation, antagonistic pleiotropy, disposable soma), programmatic/developmental/hyperfunction, damage/error (e.g., free radical/mitochondrial), redox networks, information/entropy/telomere-based.
+- Claims and structure characteristic of theories
+  - Poses general causal principles and testable predictions that organize diverse observations (e.g., Atwood & Bowen, 2011 enumerate predictions about size–lifespan relationships, fertility trade-offs; Cadenas & Davies, 2000 synthesize mitochondrial ROS generation, macromolecular damage, and apoptosis); discusses generality/limits, falsification avenues, and how to reconcile anomalies; often names the theory explicitly.
+- Publication types and venues consistent with theoretical work
+  - Reviews, perspectives, conceptual mechanistic integrations, and theory-forward original articles are common. Examples: Nature Aging perspectives (Cohen et al., 2022; Shaulson et al., 2024), Mechanisms of Ageing and Development, Clinical Science, Free Radical Biology and Medicine, Cells, Biogerontology, Aging Cell.
+- Language cues consistent with theory building or critical theory review
+  - Frequent use of “theory,” “theories,” “framework,” “paradigm,” “ultimate vs proximate,” “evolution of ageing/senescence,” and named theories; emphasis on universality, constraints, trade-offs, or general mechanisms rather than a single disease or intervention.
+
+2) FALSE POSITIVES CHARACTERISTICS: recurring patterns in non-theory papers that can “look like” theory
+- Mathematical or computational models of mortality or a single process without a general causal account of aging
+  - Example: Ledberg (2020) models Gompertz mortality via queuing/damage dynamics; it’s a generic hazard model, not a theory of aging’s causes. Frequent use of “model” without framing as a general theory is a common confound.
+- Single-mechanism experimental papers proposing a local or organ-specific cause, often with one-species data and a direct intervention test
+  - Example: DeLano & Schmid-Schönbein (2024) on “autodigestion” (digestive enzyme leakage) primarily show tissue accumulation and blockade effects in rats; the focus is a specific mechanism and therapeutic test, not an articulated, general theory of aging across organisms or levels.
+- Disease- or pathway-centric reviews framed around treatment targets or a single hallmark
+  - Example: Khosla et al. (2020) on cellular senescence and endocrine disease; mechanistic and translational, not a general theory of aging.
+- Non-biological gerontology (policy, sociology, care practice, humanities)
+  - Examples: Kamp & Dybbroe (2023) on reablement; Steptoe et al. (2015) on wellbeing; Justice (2010) on HIV care paradigm; editorial or special-issue overviews on complexity as a research program (Cohen & Olde Rikkert, 2024) without proposing a biological theory of senescence.
+- Aesthetic or organ-focused aging (dermatology, facial aging, cosmetic strategies)
+  - Examples: Shanbhag et al. (2019) on sunscreens; Farkas et al. (2013) on facial aging; Boskey & Coleman (2010) on bone aging.
+- Phenomenology or biomarkers without causal theory claims
+  - Example: Kriukov et al. (2024) on uncertainty in epigenetic clocks; it interrogates measurement/model reliability rather than proposes a theory of aging.
+
+3) EDGE CASES: hard-to-classify papers and why
+- Thermodynamic/entropy modeling papers that frame general links to aging but are primarily model-based analyses
+  - Semerciöz-Oduncuoğlu et al. (2023, PNAS) model entropy generation under CR/PR and align with Schrödinger’s hypothesis. It connects to a general principle (entropy), but the work is a computational model with lifespan predictions; it does not comprehensively articulate universal causal pathways or integrate evolutionary constraints. These papers sit on the cusp: they contribute to theory by linking a general principle to aging but may not be full “theory of aging” papers in themselves.
+- “Models” that are actually theory proposals in disguise
+  - Shaulson, Cohen & Picard (2024) call BEC a “model,” but it posits a general, organism-level energy-allocation explanation for many aging phenotypes (brain-mediated energy conservation in response to cellular hypermetabolism). Despite the “model” label, scope and intent are theory-like. Requires careful reading of aims and claims.
+- Single-mechanism proposals with broad claims
+  - DeLano & Schmid-Schönbein (2024) propose “aging by autodigestion.” Despite broad language, evidence is organ- and species-specific, with little evolutionary or cross-taxa synthesis; it reads as a mechanistic hypothesis requiring broader substantiation to qualify as a general theory of aging.
+- Comprehensive frameworks vs specific theories
+  - “A complex systems approach to aging biology” (Cohen et al., 2022) provides a theoretical framework and integrates multiple scales, but it is a meta-framework rather than a specific causal theory. It will match many “theory” lexical cues and needs disambiguation rules.
+- Domain-specific “aging” (e.g., ovarian aging; Lobo, 2003)
+  - The scope is reproductive aging, not organismal senescence. Without explicit generalization to organismal aging, these are out of scope.
+
+4) THEORY DEFINITION: what is an aging theory (and what it is not)
+- Aging theory (biological organisms): A general, explanatory framework that proposes fundamental causal principles for why and/or how organismal senescence arises and progresses in biological organisms. It organizes diverse observations across tissues, phenotypes, and—where appropriate—across species or clades, and yields testable predictions that are not limited to a single disease, organ, or experimental context.
+- Minimal criteria
+  - Explanatory aim: addresses the causes of senescence at ultimate (evolutionary) and/or proximate (mechanistic) levels.
+  - Generality: intended to apply across an entire species or broader taxa, or to all multicellular organisms with specified constraints (e.g., sexually reproducing species).
+  - Coherence: integrates multiple lines of evidence and provides a unifying logic linking diverse phenomena of aging (e.g., life-history trade-offs; damage/error accumulation; programmatic/hyperfunction; telomere/replicative limits; redox/information flow).
+  - Predictiveness/falsifiability: offers predictions or discriminating tests that could, in principle, be refuted.
+  - Distinct from disease descriptions: not confined to a particular age-related disease or measurement tool; explains the aging process itself.
+- Clear separations
+  - Theory vs model: A model is a specific representation or simulation (mathematical, computational, conceptual) used to instantiate, test, or explore implications of a theory or hypothesis; a model need not propose a new general cause. A theory is the overarching set of causal principles; models are tools derived from or used to interrogate those principles.
+  - Theory vs hypothesis: A hypothesis is a specific, testable proposition. A theory is a broader framework that can encompass multiple hypotheses and models.
+  - Theory vs framework/approach: A framework may organize methods or perspectives (e.g., systems/complexity approaches) without proposing specific causal principles of senescence. A theory does.
+
+5) SEARCH STRATEGY: PubMed approach to maximize precision and recall
+Use a two-pass strategy: high-precision retrieval for seeding and high-recall expansion for coverage. Then filter iteratively.
+
+A. High-precision core query (title/abstract emphasis on “theory” and canonical theory terms)
+- ((theor*[Title/Abstract]) OR (hypothes*[Title/Abstract]) OR (paradigm*[Title/Abstract]) OR (framework*[Title/Abstract]) OR (“ultimate proximate”[Title/Abstract]) OR (“evolution of aging”[Title/Abstract]) OR (“evolution of ageing”[Title/Abstract]) OR (“theories of aging”[Title/Abstract]) OR (“theories of ageing”[Title/Abstract]) OR (“senescence theory”[Title/Abstract]) OR (“programmed aging”[Title/Abstract]) OR (“programmatic aging”[Title/Abstract]) OR (“quasi-program”[Title/Abstract]))
+AND
+- (aging[Title/Abstract] OR ageing[Title/Abstract] OR senescence[Title/Abstract])
+NOT
+- (skin[Title/Abstract] OR facial[Title/Abstract] OR sunscreen*[Title/Abstract] OR cosmetic*[Title/Abstract] OR gait[Title/Abstract] OR athlete*[Title/Abstract] OR training[Title/Abstract] OR sociology[Title/Abstract] OR nursing[Title/Abstract] OR policy[Title/Abstract] OR religion[Title/Abstract])
+
+B. Canonical theory-name query expansion (captures theory papers that may not say “theory” in the title)
+- (“free radical theory” OR “mitochondrial free radical theory” OR “disposable soma” OR “mutation accumulation” OR “antagonistic pleiotropy” OR hyperfunction OR “developmental theory of aging” OR “programmed aging” OR “quasi-program” OR “information theory of aging” OR “redox theory of aging” OR “tumor suppression theory of aging” OR “telomere theory” OR “entropy AND aging” OR “complex systems” AND aging OR “Danaid theory” OR “germ-soma distinction”)
+AND
+- (aging OR ageing OR senescence)
+Field: Title/Abstract; include Reviews, Editorials, Perspectives, and Original Research.
+
+C. MeSH and publication-type filters to enrich precision (then relax to improve recall)
+- Start with: Aging[Majr] OR Aging/physiology[MeSH] OR Biological Evolution[MeSH] AND (Review[pt] OR Editorial[pt] OR Comment[pt] OR “Perspectives” as text OR Book Chapters)
+- Add: exclude common confounders using NOT MeSH: Dermatology[MeSH], Cosmetics[MeSH], Physical Therapy Specialty[MeSH], Nursing[MeSH], Sociology[MeSH], Public Policy[MeSH], Religion and Medicine[MeSH].
+- Relax MeSH filters during recall expansion but preserve conceptual keyword constraints.
+
+D. Iterative snowballing
+- Seed with known theory papers from the positive set (Atwood 2011; Go & Jones 2017; Cadenas & Davies 2000; Beckman & Ames 1998; Gems 2022; Wensink & Cohen 2022; Horvath & Raj 2018; Walker 2022; de Magalhães 2025; Wolf 2021; Lansdorp 2022). Extract their cited and citing records, and re-query with extracted theory-specific phrases.
+- Add author-name filters for prolific theory authors (e.g., Kirkwood; de Magalhães; Gems; Austad; Williams; Medawar; Hamilton) combined with “aging OR ageing OR senescence” and theory-related terms.
+
+E. Two-tier final filter/triage
+- Keep if Title/Abstract contains any of: theory/theories; named classic theory terms; “evolution of aging/senescence”; “ultimate” AND “proximate”.
+- Flag for manual/AI screening if labeled a “model,” “approach,” or “framework” but the abstract claims organism-level general principles (e.g., BEC).
+
+6) CLASSIFICATION RULES: decision process after download (actionable and testable)
+Implement a hybrid pipeline combining rules, lexicons, and ML/LLM.
+
+A. Rule-based prefilter (fast exclusion)
+- Exclude if any of the following dominate Title/Abstract or MeSH without co-occurring theory cues:
+  - Domains: skin/facial/cosmetic/dermatology; gait/balance/physio; nursing/care policy/sociology/humanities; religion/subjective wellbeing; sports/athletes; single-disease management (e.g., HIV care paradigm) without general aging-cause claims.
+  - Examples of exclusions from negatives: Shanbhag 2019 (cosmetics); Li et al. 2014 (gait); Watkins et al. 2023 (humanities adaptation); Justice 2010 (HIV care); Steptoe et al. 2015 (wellbeing).
+- Exclude if scope is organ- or disease-specific without explicit generalization to organismal aging theory (e.g., bone-only, facial-only, ovarian-only), unless the paper explicitly proposes a general theory of aging.
+
+B. Positive lexical/thematic triggers (score up)
+- Presence in Title/Abstract of: theory/theories; named aging theories (free radical, mitochondrial free radical, disposable soma, antagonistic pleiotropy, mutation accumulation, programmed/programmatic/quasi-program/hyperfunction, telomere theory, information theory, redox theory, tumor suppression theory, Danaid theory, germ-soma); “evolution of aging/senescence”; “ultimate AND proximate”.
+- Cross-taxa or species-general claims (e.g., “across taxa,” “in all sexually reproducing life forms,” “tree of life,” “species lifespan”).
+- Integration language (e.g., unifying framework, mechanistic–evolutionary synthesis, constraints/trade-offs).
+
+C. Negative lexical patterns (score down, unless overridden)
+- “Model of” without theory framing; a single disease/pathway; “intervention trial,” “drug,” “patient management”; localized organs (skin, face, bone), or non-biological gerontology terms (policy, sociology), unless the paper explicitly proposes a theory of aging.
+
+D. Decision tree (deterministic fallback)
+- Step 1: Does Title/Abstract contain “theory” or “theories” or a named aging theory? If yes → provisionally classify as theory; proceed to Step 2 for confirmation.
+- Step 2: Does the Abstract claim generality (organismal/species-level), give causal principles for senescence (why/how) beyond one organ/disease, and offer testable predictions or integrative synthesis? If yes → theory. If not → proceed to Step 3.
+- Step 3: If labeled “model/approach/framework,” does it explicitly propose organism-level causal principles intended to generalize across species or the organism? If yes (e.g., BEC) → treat as theory-like; flag as edge case for human/LLM confirmation. If no → non-theory.
+- Step 4: If an experimental/mechanistic paper proposes a new single-factor cause with limited system/organ scope and no evolutionary/general synthesis (e.g., autodigestion rat study) → non-theory.
+- Step 5: If a mortality/mathematical model reproduces hazard shapes without general causal claims for senescence → non-theory (e.g., Ledberg 2020).
+
+E. Supervised ML/LLM layer (to boost recall and handle edge cases)
+- Train a classifier on labeled positives/negatives using features:
+  - N-grams of theory lexicon and named theories.
+  - Presence of evolutionary terminology (e.g., antagonistic pleiotropy, mutation accumulation, selection shadow, disposable soma).
+  - Generality cues (all, across taxa, species lifespan, life history, constraints/trade-offs).
+  - Negative cues (cosmetic, gait, nursing, policy, religion, subjective wellbeing, athletes, bone/facial/skin unless co-occurring with theory cues).
+  - Publication type and journal priors (e.g., Mechanisms of Ageing and Development, Aging Cell, Biogerontology, Nature Aging often include theory; journals in rehabilitation, dermatology, nursing, policy are less likely).
+- Use an LLM (prompted with the Theory Definition above) to judge theoretical intent and scope for abstracts that pass prefilters but remain ambiguous; require the LLM to justify with explicit text spans (e.g., “authors propose a theory,” “applies across taxa,” “explains why we age”).
+
+F. Final human adjudication for flagged cases
+- Edge classes: entropy/thermodynamics works; organism-level “models” that function as theories; single-mechanism proposals with broad language but limited scope.
+- Apply the Theory Definition criteria strictly: explanatory aim, generality, coherence, predictions/falsifiability, and distinction from disease- or organ-specific accounts.
+
+Why this will work on the full corpus
+- Positive examples consistently show: explicit theory naming, cross-taxa/general claims, integration of ultimate/proximate causes, and unifying logic (Atwood 2011; Go & Jones 2017; Wolf 2021; Wensink & Cohen 2022; Gems 2022; Horvath & Raj 2018; Walker 2022; de Magalhães 2025; Cadenas & Davies 2000; Beckman & Ames 1998; Lansdorp 2022; Dujon et al. 2025).
+- Negative examples consistently show: applied models, organ/disease focus, intervention-centric framing, or non-biological gerontology domains, without general causal claims for senescence (Ledberg 2020; DeLano 2024; Khosla 2020; Steptoe 2015; Justice 2010; Shanbhag 2019; Farkas 2013; Li 2014; Watkins 2023; Boskey 2010; Sholl 2021).
+- Edge cases are anticipated and routed to a confirmatory step based on explicit textual evidence of theory-level claims.
+
+In summary
+- Genuine aging theory papers articulate general causal principles for senescence, often integrating evolutionary and mechanistic levels, and provide unifying explanations and predictions across organisms or broad contexts. They are distinct from applied models, organ- or disease-specific mechanistic studies, measurement/biomarker papers, and non-biological gerontology. The combined search, rule-based, and ML/LLM pipeline above maximizes precision and recall and provides a practical, testable path to scale classification to large PubMed corpora.

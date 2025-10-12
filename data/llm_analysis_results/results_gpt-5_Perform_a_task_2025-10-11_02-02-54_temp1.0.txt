@@ -1,0 +1,180 @@
+# LLM Analysis Results
+
+## Metadata
+- Timestamp: 2025-10-11_02-02-54
+- Model: gpt-5
+- Temperature: 1.0
+- Prompt Type: aging_theory_with_negatives_what_is_theory
+
+## Query
+Perform a task on papers analysis and formulation of aging theory. Be very careful on word choice and do not make any assumptions.
+
+## Template Used
+None
+
+## Response
+Below is a concise, evidence‑based synthesis that relies only on the information in the provided positive (golden) and negative sets and on the stated observations. It uses exact, observable patterns in those papers and does not assume anything not supported by them.
+
+1) TRUE CHARACTERISTICS of genuine aging theory papers (with examples)
+
+- Primary aim is explanatory, not just descriptive or interventional
+  - They state, revise, or test a general, causal framework for senescence (why/how organisms age), often across taxa or across many organ systems.
+  - Examples:
+    - Evolutionary/ultimate frameworks: “The Danaid Theory of Aging” (Pos-7) proposes unmaintainability constraints shaping aging diversity; “The evolution of ageing: classic theories and emerging ideas” (Pos-11) synthesizes and updates evolutionary theories; “The Role of Selection for Function in Aging…” (Pos-8) proposes a novel evolutionary perspective linking selection at lower organizational levels to chronic disease with aging.
+    - Mechanistic/proximate frameworks with general scope: “The tumor suppression theory of aging” (Pos-5) posits somatic mutation and tumor-suppressive mechanisms as central drivers; “Redox theory of aging” (Pos-6) reframes aging around redox networks and the genome–exposome interface; “Information Theory of Aging” (Pos-9) posits loss of epigenetic information as causal; classical free radical/mitochondrial theories (Pos-4; Pos-13; Pos-22) propose oxidative damage as central.
+    - Integrative frameworks: “A complex systems approach to aging biology” (Pos-14) and “Complex systems dynamics in aging” (Pos-15) present system‑level theoretical frameworks for aging; “An overview of contemporary theories of ageing” (Pos-3) explicitly taxonomizes and evaluates theories.
+
+- Generality is explicit or strongly implied
+  - Claims and predictions target organismal senescence broadly (humans and other metazoans), not a single disease, organ, or social outcome.
+  - Examples:
+    - Pos-1 (Reproductive‑Cell Cycle Theory) asserts explanatory power “in all sexually reproductive life forms.”
+    - Pos-6 (Redox theory) addresses metazoan evolution in an oxygen-rich environment with organism‑wide redox networks.
+    - Pos-11 (evolution review) and Pos-3 (overview) analyze patterns across taxa and life histories.
+
+- Positioning within the theory landscape is explicit
+  - These papers situate themselves among—and often adjudicate between—recognized theory families (evolutionary vs mechanistic; program vs damage; error‑ vs program‑based).
+  - Examples:
+    - Pos-3 contrasts error‑based and program‑based theories.
+    - Pos-18 (Hyperfunction theory review) integrates antagonistic pleiotropy with programmatic mechanisms and contrasts with disposable soma/damage views.
+    - Pos-12 (updating free radical theory) revises a classical theory using new mutation data.
+
+- Theory language and conceptual scaffolding are clear
+  - Frequent use of “theory,” “framework,” “ultimate/proximate causes,” “why we age,” “senescence,” and named theories (e.g., disposable soma, mutation accumulation, antagonistic pleiotropy, hyperfunction, telomere theory, free radical/mitochondrial).
+  - Examples: Pos-3, Pos-11, Pos-18, Pos-5, Pos-6, Pos-9.
+
+- Provide system‑level predictions, unifying explanations, or testable consequences
+  - Even when introducing models, the model operationalizes a proposed general mechanism of aging (not merely a mortality curve).
+  - Examples:
+    - Pos-10 (PNAS) introduces a thermodynamic model linking entropy generation to lifespan shifts under calorie/protein restriction, explicitly tying to a thermodynamic view of aging.
+    - Pos-21 (BEC model, Nature Aging) posits a brain‑mediated energy economy that logically explains broad phenotypes of aging across systems.
+
+2) FALSE POSITIVES CHARACTERISTICS (patterns in negatives that can mislead)
+
+- Narrow biological scope: single organ, compartment, or disease framing without general claims about organismal senescence
+  - “A seed-and-soil theory for blood ageing” (Neg-10) focuses on hematopoiesis niche; not a general aging theory.
+  - “Aging and Bone” (Neg-23) reviews skeletal aging; organ‑focused, not an organismal theory of aging.
+
+- Primarily interventional, clinical, policy, or lifestyle orientation (not fundamental causal explanation)
+  - “The Theory and Practice of Active Aging” (Neg-16) and “The Aging Athlete…” (Neg-19) focus on healthspan promotion, not on fundamental causes of senescence.
+  - “Healthy ageing, resilience and wellbeing” (Neg-7), “Subjective wellbeing, health, and ageing” (Neg-21), and “HIV and Aging: Time for a New Paradigm” (Neg-22) are policy/clinical/psychosocial framings.
+
+- Modeling mortality dynamics without biological mechanism of senescence
+  - “Exponential increase in mortality… queue model” (Neg-1) is a mathematical mortality model lacking a general biological causal account of aging mechanisms; it can mimic “theory” but remains phenomenological about hazard shapes.
+
+- Domain misuse of “theory” (non‑biological aging theory)
+  - “Theory in Religion, Aging, and Health” (Neg-12) and cultural/theater adaptation framing (Neg-14) explicitly use “theory” but not as biological aging theory.
+
+- Cosmetic/dermatology or device/product focus
+  - “Anti‑aging and Sunscreens: Paradigm Shift in Cosmetics” (Neg-11) targets photoaging and products; not an organismal theory of aging.
+
+- Mechanistic hypothesis restricted to a specific pathway without establishing generality as a cause of senescence
+  - “Aging by autodigestion” (Neg-4) proposes digestive enzyme leakage in rats; it is a mechanistic hypothesis with limited taxonomic scope and strong interventional thrust (trypsin inhibitor), not an integrated organismal theory.
+
+- Methods or editorial overviews of approaches without proposing or revising a theory of senescence
+  - “The Power of a Complex Systems Perspective to Elucidate Aging” (Neg-18) is an editorial on complexity methods and metrics; it orients research but does not itself propose a theory of why/how aging occurs.
+
+3) EDGE CASES (hardest to classify, illustrating pitfalls)
+
+- Thermodynamics/energy frameworks:
+  - Pos-10 (PNAS) introduces a computational thermodynamic model predicting lifespan responses via entropy generation; although a “model,” it directly links to a general theoretical claim (entropy/aging) and tests theory‑level predictions. Edge: model vs theory; included positive because it operationalizes and tests a general causal proposition about senescence.
+  - Neg-1 (queue/mortality model) also models aging patterns but only at the level of hazard dynamics; it does not propose a general biological causal framework. Distinction: theory‑anchored causal mechanism vs abstract mortality fit.
+
+- Complex systems papers:
+  - Pos-14 and Pos-15 propose explicit organism‑wide theoretical frameworks (emergence, dysregulation, resilience) explaining aging patterns and provide empirical/theoretical evidence and predictions.
+  - Neg-18 is a special‑issue editorial guiding methods adoption; it does not advance a specific causal theory of senescence. Distinction: proposing a general explanatory framework vs curating methods.
+
+- Mechanistic but narrow hypotheses:
+  - Neg-10 (hematopoiesis niche) and Neg-4 (autodigestion) aim at mechanistic explanation but lack general organismal scope and evolutionary/theoretical placement. In contrast, Pos-5 (tumor suppression theory) and Pos-6 (redox theory) articulate organism‑wide, cross‑system causal accounts and connect to evolution, constraints, or multi‑system networks.
+
+4) THEORY DEFINITION (precise; separates theory from model)
+
+Definition of a theory of biological aging
+- A theory of biological aging is a general, causal explanatory framework for organismal senescence. It aims to explain why and/or how senescence arises and progresses across individuals of a species, often with implications across taxa. A valid aging theory:
+  - Identifies causal principles or mechanisms that account for senescence as an organism‑wide phenomenon (e.g., evolutionary forces such as antagonistic pleiotropy; organismal mechanisms such as redox network decline, information loss, or hyperfunction).
+  - Articulates scope and generality beyond a single disease, organ, or context.
+  - Situates itself in relation to existing theory families (e.g., evolutionary/ultimate vs mechanistic/proximate; damage/error vs program/hyperfunction), or clearly defines a novel family.
+  - Generates testable predictions about aging patterns (e.g., across species, interventions, life histories, or biomarkers).
+  - Is falsifiable in principle through empirical observation.
+
+Clear separation from model
+- A model is a formal or schematic representation used to instantiate, quantify, simulate, or test specific implications of a theory. Models are tools (mathematical, computational, conceptual) with limited scope by design. A model alone does not constitute a theory unless it explicitly advances a general causal explanation of senescence and demonstrates generality and testable predictions at the organismal level.
+  - Example of theory: “Redox theory of aging” (Pos-6) and “Hyperfunction theory” (Pos-18).
+  - Example of model: a queue model fitting Gompertz hazards (Neg-1).
+
+5) PUBMED SEARCH STRATEGY (maximize precision and recall; rationale stated)
+
+Step 1: High‑recall core query
+- Use both US/UK spellings and core theory lexicon in Title/Abstract plus MeSH anchoring to aging:
+  - (“aging”[tiab] OR “ageing”[tiab]) AND
+    (“theory”[tiab] OR “theories”[tiab] OR “hypothesis”[tiab] OR “framework”[tiab] OR “paradigm”[tiab] OR “perspective”[tiab] OR “ultimate”[tiab] OR “proximate”[tiab])
+  - OR named theory terms:
+    (“free radical theory”[tiab] OR “mitochondrial free radical”[tiab] OR “disposable soma”[tiab] OR “antagonistic pleiotropy”[tiab] OR “mutation accumulation”[tiab] OR “hyperfunction”[tiab] OR “programmed aging”[tiab] OR “telomere”[tiab] OR “redox theory”[tiab] OR “information theory of aging”[tiab] OR “epigenetic clock theory”[tiab] OR “tumor suppression theory”[tiab])
+  - AND (“Aging”[Majr] OR “Cellular Senescence”[Majr] OR “Longevity”[Majr])
+
+Step 2: Add journals that commonly publish theory for higher precision (optional filter pass)
+- (“Ageing Res Rev”[jour] OR “Mechanisms of Ageing and Development”[jour] OR “Biogerontology”[jour] OR “Nature Aging”[jour] OR “Free Radic Biol Med”[jour] OR “Clin Sci”[jour] OR “Frontiers in Cell and Developmental Biology”[jour] OR “Blood”[jour] OR “Prog Mol Biol Transl Sci”[jour])
+
+Step 3: Exclude frequent false‑positive domains by Title/Abstract
+- NOT Title/Abstract containing:
+  - “skin” OR “cosmetic” OR “sunscreen” (Neg-11)
+  - “HIV” OR “AIDS” (Neg-22)
+  - “athlete” OR “exercise” OR “gait” (Neg-19; Neg-6)
+  - “wellbeing” OR “resilience” OR “policy” OR “geriatric care” (Neg-7; Neg-21)
+  - “religion” OR “humanities” OR “theater” (Neg-12; Neg-14)
+  - “bone” OR “ovary” OR “hematopoiet*” OR “marrow” (Neg-23; Neg-24; Neg-10)
+  - “Gompertz” OR “mortality model” OR “queue” OR “stochastic process” without mechanistic terms (Neg-1)
+
+Step 4: Keep publication types broad to preserve recall
+- Do not restrict to “Review” only: theory contributions can be reviews, perspectives, position papers, or original theoretical analyses. Use a two‑pass approach: (a) all types; (b) enriched review/perspective filter for curation efficiency.
+
+Step 5: Post‑retrieval triage
+- Apply the classification rules (Section 6) to remove remaining false positives.
+
+Rationale
+- The positive set often uses theory lexicon and/or names canonical theories, appears in core aging journals, and links to “Aging” MeSH. The negative set frequently includes terms above that are not about theories of senescence.
+
+6) CLASSIFICATION RULES (actionable, testable; includes a decision tree and ML option)
+
+Rule‑based decision tree for each candidate paper (based on Title/Abstract/Keywords/MeSH; apply in order)
+
+A. Scope and aim
+- Q1. Does the paper explicitly propose, synthesize, compare, test, or revise a general causal account of organismal senescence (why and/or how aging occurs)?
+  - Indicators: presence of “theory/theories of aging,” “why we age,” “ultimate/proximate,” placement among recognized theory families, cross‑taxa or organism‑wide claims.
+  - If No → Not a theory paper (reject).
+  - If Yes → go to Q2.
+
+B. Generality
+- Q2. Is the scope organism‑wide (multi‑system or evolutionary across species) rather than restricted to a single organ, disease, or service/policy context?
+  - If the focus is a single organ/disease (e.g., bone, ovary, hematopoiesis niche) without explicit generalization to senescence broadly → reject.
+  - If organism‑wide/evolutionary or explicitly argued as general → go to Q3.
+
+C. Theoretical positioning and predictions
+- Q3. Does the paper place the framework in relation to known theory families or articulate a novel general framework, and does it yield testable predictions or integrative explanations of aging patterns?
+  - If Yes → accept.
+  - If unclear → go to Q4.
+
+D. Model vs theory disambiguation
+- Q4. If primarily a “model,” does it operationalize a general causal mechanism of aging and test theory‑level predictions (e.g., Pos-10 entropy; Pos-21 energy conservation model)?
+  - If the model only reproduces mortality curves or is purely phenomenological (e.g., Neg-1) → reject.
+  - If it instantiates theory‑level causal propositions about senescence → accept.
+
+E. Exclusion triggers (any one suffices to reject)
+- Clinical/policy/psychosocial focus (e.g., wellbeing, resilience, health services) without causal theory of senescence (Neg-7; Neg-21; Neg-22).
+- Cosmetic/dermatologic product focus (Neg-11).
+- Humanities/sociology/culture framing of aging (Neg-12; Neg-14).
+- Narrow mechanistic hypothesis lacking organismal generalization (Neg-4; Neg-10).
+
+Evidence‑anchored examples of application
+- Accept: Pos-5, Pos-6, Pos-7, Pos-8, Pos-9, Pos-11, Pos-12, Pos-14, Pos-15, Pos-18, Pos-20, Pos-21, Pos-22.
+- Reject: Neg-1, Neg-4, Neg-7, Neg-10, Neg-11, Neg-12, Neg-14, Neg-16, Neg-18, Neg-19, Neg-21, Neg-22, Neg-23, Neg-24.
+
+ML/AI augmentation (optional layer; reproducible)
+- Feature engineering (positive weight): “theory/theories of aging,” “senescence,” “ultimate,” “proximate,” “antagonistic pleiotropy,” “mutation accumulation,” “disposable soma,” “programmed,” “hyperfunction,” “redox,” “free radical,” “telomere,” “information theory,” “epigenetic clock,” “evolution of ageing.”
+- Negative features: “wellbeing,” “healthy aging,” “policy,” “exercise,” “athlete,” “gait,” “sunscreen,” “cosmetic,” “HIV,” “bone,” “ovary,” “hematopoietic,” “marrow,” “Gompertz,” “mortality model,” “queue,” “stochastic process,” “religion,” “humanities.”
+- Classifier: fine‑tuned transformer or logistic regression on embeddings, trained on the provided positive/negative sets; threshold tuned to maximize F1. Use the rule‑based decision tree as a post‑processor to ensure adherence to definitions.
+
+Summary of what separates true theory papers
+- Content: a causal, general framework for senescence (why/how), not a description or intervention.
+- Scope: organism‑wide/evolutionary; cross‑system; not organ‑ or product‑specific.
+- Positioning: explicit within the aging theory canon or clearly proposed as a new general framework.
+- Predictions: testable, integrative consequences for aging patterns across species or systems.
