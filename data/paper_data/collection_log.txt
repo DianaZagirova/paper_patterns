@@ -94,3 +94,120 @@
 [2025-10-11 03:09:53]   - 10.1093/geront/34.6.756 -> 10.1093_geront_34.6.756.json
 [2025-10-11 03:09:53]   - 10.4161/cc.9.16.13120 -> 10.4161_cc.9.16.13120.json
 [2025-10-11 03:09:53]   - 10.1093/geront/29.2.183 -> 10.1093_geront_29.2.183.json
+[2025-10-15 00:43:27] Loaded 26 previously processed DOIs
+[2025-10-15 00:43:27] Found 28 new DOIs to process
+[2025-10-15 00:43:27] Processing DOI: https://doi.org/10.1016/S0140-6736(13)61489-0
+[2025-10-15 00:43:27] Processing DOI: https://doi.org/10.1017/S2045796017000324
+[2025-10-15 00:43:27] Processing DOI: https://doi.org/10.1038/s41574-020-0335-y
+[2025-10-15 00:43:27] Processing DOI: https://doi.org/10.1038/s41586-024-08285-0
+[2025-10-15 00:43:27] Processing DOI: https://doi.org/10.1177/0022034510377791
+[2025-10-15 00:43:34] Successfully saved data for DOI: https://doi.org/10.1038/s41586-024-08285-0
+[2025-10-15 00:43:34] Processing DOI: https://doi.org/10.1098/rstb.2019.0727
+[2025-10-15 00:43:35] Successfully saved data for DOI: https://doi.org/10.1016/S0140-6736(13)61489-0
+[2025-10-15 00:43:35] Processing DOI: https://doi.org/10.1093/gerona/glae210
+[2025-10-15 00:43:36] Successfully saved data for DOI: https://doi.org/10.1038/s41574-020-0335-y
+[2025-10-15 00:43:36] Processing DOI: https://doi.org/10.1093/geront/gnad049
+[2025-10-15 00:43:36] Successfully saved data for DOI: https://doi.org/10.1017/S2045796017000324
+[2025-10-15 00:43:36] Processing DOI: https://doi.org/10.1371/journal.pone.0312149
+[2025-10-15 00:43:37] Successfully saved data for DOI: https://doi.org/10.1177/0022034510377791
+[2025-10-15 00:43:37] Processing DOI: https://doi.org/10.1111/1467-9566.13675
+[2025-10-15 00:43:44] Successfully saved data for DOI: https://doi.org/10.1098/rstb.2019.0727
+[2025-10-15 00:43:44] Processing DOI: https://doi.org/10.1007/s40656-021-00402-w
+[2025-10-15 00:43:45] Successfully saved data for DOI: https://doi.org/10.1111/1467-9566.13675
+[2025-10-15 00:43:45] Processing DOI: https://doi.org/10.15171/apb.2019.042
+[2025-10-15 00:43:46] Successfully saved data for DOI: https://doi.org/10.1093/geront/gnad049
+[2025-10-15 00:43:46] Processing DOI: https://doi.org/10.26633/RPSP.2025.83
+[2025-10-15 00:43:48] Successfully saved data for DOI: https://doi.org/10.1093/gerona/glae210
+[2025-10-15 00:43:48] Processing DOI: https://doi.org/10.1055/a-1761-8481
+[2025-10-15 00:43:49] Successfully saved data for DOI: https://doi.org/10.1371/journal.pone.0312149
+[2025-10-15 00:43:49] Processing DOI: https://doi.org/10.1007/s11904-010-0041-9
+[2025-10-15 00:43:52] Successfully saved data for DOI: https://doi.org/10.1007/s40656-021-00402-w
+[2025-10-15 00:43:52] Processing DOI: https://doi.org/10.1097/GOX.0b013e31828ed1da
+[2025-10-15 00:43:55] Successfully saved data for DOI: https://doi.org/10.15171/apb.2019.042
+[2025-10-15 00:43:55] Processing DOI: https://doi.org/10.1007/s10943-009-9319-x
+[2025-10-15 00:43:55] Successfully saved data for DOI: https://doi.org/10.1055/a-1761-8481
+[2025-10-15 00:43:55] Processing DOI: https://doi.org/10.1016/j.gaitpost.2014.05.062
+[2025-10-15 00:43:56] Successfully saved data for DOI: https://doi.org/10.1007/s11904-010-0041-9
+[2025-10-15 00:43:56] Processing DOI: https://doi.org/10.1093/humrep/deg377
+[2025-10-15 00:43:58] Successfully saved data for DOI: https://doi.org/10.26633/RPSP.2025.83
+[2025-10-15 00:43:58] Processing DOI: https://doi.org/10.1684/pnv.2020.0862
+[2025-10-15 00:44:02] Successfully saved data for DOI: https://doi.org/10.1097/GOX.0b013e31828ed1da
+[2025-10-15 00:44:02] Processing DOI: https://doi.org/10.1155/2012/420637
+[2025-10-15 00:44:04] Successfully saved data for DOI: https://doi.org/10.1093/humrep/deg377
+[2025-10-15 00:44:04] Processing DOI: https://doi.org/10.1038/s41398-024-03004-9
+[2025-10-15 00:44:05] Successfully saved data for DOI: https://doi.org/10.1007/s10943-009-9319-x
+[2025-10-15 00:44:05] Processing DOI: https://doi.org/10.1371/journal.pone.0233384
+[2025-10-15 00:44:05] Successfully saved data for DOI: https://doi.org/10.1016/j.gaitpost.2014.05.062
+[2025-10-15 00:44:05] Processing DOI: https://doi.org/10.1111/acel.14283
+[2025-10-15 00:44:06] Successfully saved data for DOI: https://doi.org/10.1684/pnv.2020.0862
+[2025-10-15 00:44:06] Processing DOI: https://doi.org/10.1038/s43587-021-00134-3
+[2025-10-15 00:44:12] Successfully saved data for DOI: https://doi.org/10.1155/2012/420637
+[2025-10-15 00:44:12] Processing DOI: https://doi.org/10.18632/aging.206184
+[2025-10-15 00:44:14] Successfully saved data for DOI: https://doi.org/10.1038/s41398-024-03004-9
+[2025-10-15 00:44:14] Processing DOI: https://doi.org/10.1007/s10522-019-09837-y
+[2025-10-15 00:44:15] Successfully saved data for DOI: https://doi.org/10.1371/journal.pone.0233384
+[2025-10-15 00:44:15] Processing DOI: https://doi.org/10.5604/12321966.1129943
+[2025-10-15 00:44:16] Successfully saved data for DOI: https://doi.org/10.1111/acel.14283
+[2025-10-15 00:44:16] Successfully saved data for DOI: https://doi.org/10.1038/s43587-021-00134-3
+[2025-10-15 00:44:19] Successfully saved data for DOI: https://doi.org/10.1007/s10522-019-09837-y
+[2025-10-15 00:44:20] Successfully saved data for DOI: https://doi.org/10.5604/12321966.1129943
+[2025-10-15 00:44:21] Successfully saved data for DOI: https://doi.org/10.18632/aging.206184
+[2025-10-15 00:44:21] Processing complete. Successfully processed 28 out of 28 DOIs.
+[2025-10-15 00:44:21]   - 10.1038/s41586-024-08285-0 -> 10.1038_s41586-024-08285-0.json
+[2025-10-15 00:44:21]   - 10.1016/S0140-6736(13)61489-0 -> 10.1016_S0140-6736(13)61489-0.json
+[2025-10-15 00:44:21]   - 10.1038/s41574-020-0335-y -> 10.1038_s41574-020-0335-y.json
+[2025-10-15 00:44:21]   - 10.1017/S2045796017000324 -> 10.1017_S2045796017000324.json
+[2025-10-15 00:44:21]   - 10.1177/0022034510377791 -> 10.1177_0022034510377791.json
+[2025-10-15 00:44:21]   - 10.1098/rstb.2019.0727 -> 10.1098_rstb.2019.0727.json
+[2025-10-15 00:44:21]   - 10.1111/1467-9566.13675 -> 10.1111_1467-9566.13675.json
+[2025-10-15 00:44:21]   - 10.1093/geront/gnad049 -> 10.1093_geront_gnad049.json
+[2025-10-15 00:44:21]   - 10.1093/gerona/glae210 -> 10.1093_gerona_glae210.json
+[2025-10-15 00:44:21]   - 10.1371/journal.pone.0312149 -> 10.1371_journal.pone.0312149.json
+[2025-10-15 00:44:21]   - 10.1007/s40656-021-00402-w -> 10.1007_s40656-021-00402-w.json
+[2025-10-15 00:44:21]   - 10.15171/apb.2019.042 -> 10.15171_apb.2019.042.json
+[2025-10-15 00:44:21]   - 10.1055/a-1761-8481 -> 10.1055_a-1761-8481.json
+[2025-10-15 00:44:21]   - 10.1007/s11904-010-0041-9 -> 10.1007_s11904-010-0041-9.json
+[2025-10-15 00:44:21]   - 10.26633/RPSP.2025.83 -> 10.26633_RPSP.2025.83.json
+[2025-10-15 00:44:21]   - 10.1097/GOX.0b013e31828ed1da -> 10.1097_GOX.0b013e31828ed1da.json
+[2025-10-15 00:44:21]   - 10.1093/humrep/deg377 -> 10.1093_humrep_deg377.json
+[2025-10-15 00:44:21]   - 10.1007/s10943-009-9319-x -> 10.1007_s10943-009-9319-x.json
+[2025-10-15 00:44:21]   - 10.1016/j.gaitpost.2014.05.062 -> 10.1016_j.gaitpost.2014.05.062.json
+[2025-10-15 00:44:21]   - 10.1684/pnv.2020.0862 -> 10.1684_pnv.2020.0862.json
+[2025-10-15 00:44:21]   - 10.1155/2012/420637 -> 10.1155_2012_420637.json
+[2025-10-15 00:44:21]   - 10.1038/s41398-024-03004-9 -> 10.1038_s41398-024-03004-9.json
+[2025-10-15 00:44:21]   - 10.1371/journal.pone.0233384 -> 10.1371_journal.pone.0233384.json
+[2025-10-15 00:44:21]   - 10.1111/acel.14283 -> 10.1111_acel.14283.json
+[2025-10-15 00:44:21]   - 10.1038/s43587-021-00134-3 -> 10.1038_s43587-021-00134-3.json
+[2025-10-15 00:44:21]   - 10.1007/s10522-019-09837-y -> 10.1007_s10522-019-09837-y.json
+[2025-10-15 00:44:21]   - 10.5604/12321966.1129943 -> 10.5604_12321966.1129943.json
+[2025-10-15 00:44:21]   - 10.18632/aging.206184 -> 10.18632_aging.206184.json
+[2025-10-15 00:44:28] Loaded 54 previously processed DOIs
+[2025-10-15 00:44:28] Found 9 new DOIs to process
+[2025-10-15 00:44:28] Processing DOI: https://doi.org/10.1016/j.cell.2013.05.039
+[2025-10-15 00:44:28] Processing DOI: https://doi.org/10.1152/physrev.00047.2006
+[2025-10-15 00:44:28] Processing DOI: https://doi.org/10.1089/rej.2011.1162
+[2025-10-15 00:44:28] Processing DOI: https://doi.org/10.1016/j.biosystems.2024.105157
+[2025-10-15 00:44:28] Processing DOI: https://doi.org/10.1080/15384101.2022.2054636
+[2025-10-15 00:44:34] Successfully saved data for DOI: https://doi.org/10.1152/physrev.00047.2006
+[2025-10-15 00:44:34] Processing DOI: https://doi.org/10.3390/vaccines12121314
+[2025-10-15 00:44:35] Successfully saved data for DOI: https://doi.org/10.1089/rej.2011.1162
+[2025-10-15 00:44:35] Processing DOI: https://doi.org/10.1016/0022-5193(71)90091-9
+[2025-10-15 00:44:35] Successfully saved data for DOI: https://doi.org/10.1016/j.biosystems.2024.105157
+[2025-10-15 00:44:35] Processing DOI: https://doi.org/10.1016/j.cell.2005.01.027
+[2025-10-15 00:44:36] Successfully saved data for DOI: https://doi.org/10.1016/j.cell.2013.05.039
+[2025-10-15 00:44:36] Processing DOI: https://doi.org/10.1006/jtbi.2001.2296
+[2025-10-15 00:44:40] Successfully saved data for DOI: https://doi.org/10.1080/15384101.2022.2054636
+[2025-10-15 00:44:41] Successfully saved data for DOI: https://doi.org/10.1016/0022-5193(71)90091-9
+[2025-10-15 00:44:42] Successfully saved data for DOI: https://doi.org/10.1016/j.cell.2005.01.027
+[2025-10-15 00:44:43] Successfully saved data for DOI: https://doi.org/10.1006/jtbi.2001.2296
+[2025-10-15 00:44:44] Successfully saved data for DOI: https://doi.org/10.3390/vaccines12121314
+[2025-10-15 00:44:44] Processing complete. Successfully processed 9 out of 9 DOIs.
+[2025-10-15 00:44:44]   - 10.1152/physrev.00047.2006 -> 10.1152_physrev.00047.2006.json
+[2025-10-15 00:44:44]   - 10.1089/rej.2011.1162 -> 10.1089_rej.2011.1162.json
+[2025-10-15 00:44:44]   - 10.1016/j.biosystems.2024.105157 -> 10.1016_j.biosystems.2024.105157.json
+[2025-10-15 00:44:44]   - 10.1016/j.cell.2013.05.039 -> 10.1016_j.cell.2013.05.039.json
+[2025-10-15 00:44:44]   - 10.1080/15384101.2022.2054636 -> 10.1080_15384101.2022.2054636.json
+[2025-10-15 00:44:44]   - 10.1016/0022-5193(71)90091-9 -> 10.1016_0022-5193(71)90091-9.json
+[2025-10-15 00:44:44]   - 10.1016/j.cell.2005.01.027 -> 10.1016_j.cell.2005.01.027.json
+[2025-10-15 00:44:44]   - 10.1006/jtbi.2001.2296 -> 10.1006_jtbi.2001.2296.json
+[2025-10-15 00:44:44]   - 10.3390/vaccines12121314 -> 10.3390_vaccines12121314.json

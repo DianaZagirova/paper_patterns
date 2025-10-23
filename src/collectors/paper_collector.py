@@ -48,6 +48,8 @@ last_req_time = [0]  # List to allow modification in nested scopes
 # Initialize logging
 def log_message(message: str) -> None:
     """Write a timestamped message to the log file."""
+    # Ensure the data directory exists
+    os.makedirs(DATA_DIR, exist_ok=True)
     timestamp = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
     with open(LOG_FILE, 'a') as f:
         f.write(f"[{timestamp}] {message}\n")
@@ -441,6 +443,8 @@ def save_processed_dois(processed_dois: Set[str]) -> None:
     Args:
         processed_dois: Set of normalized DOIs that have been processed
     """
+    # Ensure the data directory exists
+    os.makedirs(DATA_DIR, exist_ok=True)
     try:
         with open(CACHE_FILE, 'w') as f:
             json.dump(list(processed_dois), f)
@@ -457,6 +461,9 @@ def save_paper_data(paper_data: Dict[str, Any]) -> str:
     Returns:
         Path to the saved file
     """
+    # Ensure the papers directory exists
+    os.makedirs(PAPERS_DIR, exist_ok=True)
+    
     # Create a filename based on DOI (replacing invalid characters)
     safe_filename = paper_data['doi'].replace('/', '_').replace('\\', '_')
     file_path = os.path.join(PAPERS_DIR, f"{safe_filename}.json")

@@ -1,0 +1,29 @@
+{
+  "doi": "10.1006/jtbi.2001.2296",
+  "title": "Patterns of Age-specific Means and Genetic Variances of Mortality Rates Predicted by the Mutation-Accumulation Theory of Ageing",
+  "abstract": "A general quantitative genetic model of mutations with age-specific deleterious effects is developed. It is shown that, for the simplest case of a species with age-independent reproductive rates and extrinsic adult mortality rates, and no pleiotropic effects of age-specific mutations, exponential increases with age of both the mean and additive genetic variance of age-specific mortality rates are expected. Models where age-specific mutations have pleiotropic effects on mortality that extend either throughout adult life, or are confined to juvenile stages, produce equilibria with exponential increases in the mean and additive variance of mortality rates during much of adult life. However, the rates of increase diminish late in life, and can even become zero. Predictions concerning the additive genetic correlations in mortality rates between different ages are also developed. The predictions of the models are compared with data on humans and Drosophila.",
+  "full_text": {},
+  "mesh_terms": [
+    "Aging",
+    "Animals",
+    "Drosophila",
+    "Humans",
+    "Models, Genetic",
+    "Mortality",
+    "Mutation",
+    "Reproduction"
+  ],
+  "keywords": [],
+  "citation_count": 179,
+  "authors": [
+    {
+      "name": "BRIAN CHARLESWORTH",
+      "affiliations": []
+    }
+  ],
+  "year": 2001,
+  "journal": "Journal of Theoretical Biology",
+  "pmid": "11343430",
+  "pmcid": null,
+  "collection_date": "2025-10-15"
+}

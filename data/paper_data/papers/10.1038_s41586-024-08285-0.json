@@ -1,0 +1,134 @@
+{
+  "doi": "10.1038/s41586-024-08285-0",
+  "title": "Ageing limits stemness and tumorigenesis by reprogramming iron homeostasis",
+  "abstract": "Ageing is associated with a decline in the number and fitness of adult stem cells<sup>1,2</sup>. Ageing-associated loss of stemness is posited to suppress tumorigenesis<sup>3,4</sup>, but this hypothesis has not been tested in vivo. Here we use physiologically aged autochthonous genetically engineered<sup>5,6</sup> mouse models and primary cells<sup>5,6</sup> to demonstrate that ageing suppresses lung cancer initiation and progression by degrading the stemness of the alveolar cell of origin. This phenotype is underpinned by the ageing-associated induction of the transcription factor NUPR1 and its downstream target lipocalin-2 in the cell of origin in mice and humans, which leads to functional iron insufficiency in the aged cells. Genetic inactivation of the NUPR1-lipocalin-2 axis or iron supplementation rescues stemness and promotes the tumorigenic potential of aged alveolar cells. Conversely, targeting the NUPR1-lipocalin-2 axis is detrimental to young alveolar cells through ferroptosis induction. Ageing-associated DNA hypomethylation at specific enhancer sites is associated with increased NUPR1 expression, which is recapitulated in young alveolar cells through DNA methylation inhibition. We uncover that ageing drives functional iron insufficiency that leads to loss of stemness and tumorigenesis but promotes resistance to ferroptosis. These findings have implications for the therapeutic modulation of cellular iron homeostasis in regenerative medicine and in cancer prevention. Furthermore, our findings are consistent with a model whereby most human cancers initiate at a young age, thereby highlighting the importance of directing cancer prevention efforts towards young individuals.",
+  "full_text": {},
+  "mesh_terms": [
+    "Animals",
+    "Female",
+    "Humans",
+    "Male",
+    "Mice",
+    "Aging",
+    "Alveolar Epithelial Cells",
+    "Basic Helix-Loop-Helix Transcription Factors",
+    "Carcinogenesis",
+    "DNA Methylation",
+    "Ferroptosis",
+    "Homeostasis",
+    "Iron",
+    "Lipocalin-2",
+    "Lung Neoplasms",
+    "Neoplasm Proteins",
+    "Stem Cells"
+  ],
+  "keywords": [],
+  "citation_count": 22,
+  "authors": [
+    {
+      "name": "Xueqian Zhuang",
+      "affiliations": []
+    },
+    {
+      "name": "Qing Wang",
+      "affiliations": []
+    },
+    {
+      "name": "Simon Joost",
+      "affiliations": []
+    },
+    {
+      "name": "Alexander Ferrena",
+      "affiliations": []
+    },
+    {
+      "name": "David T. Humphreys",
+      "affiliations": []
+    },
+    {
+      "name": "Zhuxuan Li",
+      "affiliations": []
+    },
+    {
+      "name": "Melissa Blum",
+      "affiliations": []
+    },
+    {
+      "name": "Klavdija Krause",
+      "affiliations": []
+    },
+    {
+      "name": "Selena Ding",
+      "affiliations": []
+    },
+    {
+      "name": "Yuna Landais",
+      "affiliations": []
+    },
+    {
+      "name": "Yingqian Zhan",
+      "affiliations": []
+    },
+    {
+      "name": "Yang Zhao",
+      "affiliations": []
+    },
+    {
+      "name": "Ronan Chaligne",
+      "affiliations": []
+    },
+    {
+      "name": "Joo-Hyeon Lee",
+      "affiliations": []
+    },
+    {
+      "name": "Sebastian E. Carrasco",
+      "affiliations": []
+    },
+    {
+      "name": "Umeshkumar K. Bhanot",
+      "affiliations": []
+    },
+    {
+      "name": "Richard P. Koche",
+      "affiliations": []
+    },
+    {
+      "name": "Matthew J. Bott",
+      "affiliations": []
+    },
+    {
+      "name": "Pekka Katajisto",
+      "affiliations": []
+    },
+    {
+      "name": "Yadira M. Soto-Feliciano",
+      "affiliations": []
+    },
+    {
+      "name": "Thomas Pisanic",
+      "affiliations": []
+    },
+    {
+      "name": "Tiffany Thomas",
+      "affiliations": []
+    },
+    {
+      "name": "Deyou Zheng",
+      "affiliations": []
+    },
+    {
+      "name": "Emily S. Wong",
+      "affiliations": []
+    },
+    {
+      "name": "Tuomas Tammela",
+      "affiliations": []
+    }
+  ],
+  "year": 2024,
+  "journal": "Nature",
+  "pmid": "39633048",
+  "pmcid": null,
+  "collection_date": "2025-10-15"
+}

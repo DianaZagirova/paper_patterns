@@ -1,0 +1,61 @@
+{
+  "doi": "10.1016/0022-5193(71)90091-9",
+  "title": "Codon-restriction theory of aging and development",
+  "abstract": null,
+  "full_text": {},
+  "mesh_terms": [
+    "Aging",
+    "Amino Acid Sequence",
+    "Amino Acyl-tRNA Synthetases",
+    "Animals",
+    "Antibody Formation",
+    "Cattle",
+    "Cell Differentiation",
+    "Contact Inhibition",
+    "DNA",
+    "Feedback",
+    "Genes",
+    "Genes, Regulator",
+    "Genetic Code",
+    "Immunity",
+    "Mice",
+    "Models, Biological",
+    "Oncogenic Viruses",
+    "Protein Biosynthesis",
+    "RNA, Transfer",
+    "Rabbits",
+    "Rats",
+    "Regeneration",
+    "Suppression, Genetic",
+    "Templates, Genetic"
+  ],
+  "keywords": [],
+  "citation_count": 112,
+  "authors": [
+    {
+      "name": "B. Strehler",
+      "affiliations": []
+    },
+    {
+      "name": "G. Hirsch",
+      "affiliations": []
+    },
+    {
+      "name": "D. Gusseck",
+      "affiliations": []
+    },
+    {
+      "name": "R. Johnson",
+      "affiliations": []
+    },
+    {
+      "name": "M. Bick",
+      "affiliations": []
+    }
+  ],
+  "year": 1971,
+  "journal": "Journal of Theoretical Biology",
+  "pmid": "5153937",
+  "pmcid": null,
+  "collection_date": "2025-10-15"
+}

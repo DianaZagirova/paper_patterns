@@ -1,0 +1,39 @@
+{
+  "doi": "10.1038/s41574-020-0335-y",
+  "title": "The role of cellular senescence in ageing and endocrine disease",
+  "abstract": "With the ageing of the global population, interest is growing in the 'geroscience hypothesis', which posits that manipulation of fundamental ageing mechanisms will delay (in parallel) the appearance or severity of multiple chronic, non-communicable diseases, as these diseases share the same underlying risk factor - namely, ageing. In this context, cellular senescence has received considerable attention as a potential target in preventing or treating multiple age-related diseases and increasing healthspan. Here we review mechanisms of cellular senescence and approaches to target this pathway therapeutically using 'senolytic' drugs that kill senescent cells or inhibitors of the senescence-associated secretory phenotype (SASP). Furthermore, we highlight the evidence that cellular senescence has a causative role in multiple diseases associated with ageing. Finally, we focus on the role of cellular senescence in a number of endocrine diseases, including osteoporosis, metabolic syndrome and type 2 diabetes mellitus, as well as other endocrine conditions. Although much remains to be done, considerable preclinical evidence is now leading to the initiation of proof-of-concept clinical trials using senolytics for several endocrine and non-endocrine diseases.",
+  "full_text": {},
+  "mesh_terms": [
+    "Aging",
+    "Animals",
+    "Cellular Senescence",
+    "Endocrine System Diseases",
+    "Humans",
+    "Risk Factors"
+  ],
+  "keywords": [],
+  "citation_count": 416,
+  "authors": [
+    {
+      "name": "Sundeep Khosla",
+      "affiliations": []
+    },
+    {
+      "name": "Joshua N. Farr",
+      "affiliations": []
+    },
+    {
+      "name": "Tamara Tchkonia",
+      "affiliations": []
+    },
+    {
+      "name": "James L. Kirkland",
+      "affiliations": []
+    }
+  ],
+  "year": 2020,
+  "journal": "Nature Reviews Endocrinology",
+  "pmid": "32161396",
+  "pmcid": "PMC7227781",
+  "collection_date": "2025-10-15"
+}

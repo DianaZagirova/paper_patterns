@@ -58,6 +58,39 @@ def load_dois_from_excel(excel_file: str, sheet_name: str = 'positives', doi_col
         return []
 
 
+def load_dois_from_txt(txt_file: str) -> list:
+    """
+    Load DOIs from text file (one DOI per line).
+    
+    Args:
+        txt_file: Path to text file containing DOIs
+        
+    Returns:
+        List of DOI strings
+    """
+    try:
+        with open(txt_file, 'r', encoding='utf-8') as f:
+            lines = f.readlines()
+        
+        # Process each line
+        formatted_dois = []
+        for line in lines:
+            doi_str = line.strip()
+            # Skip empty lines and comments
+            if not doi_str or doi_str.startswith('#'):
+                continue
+            
+            # Add https://doi.org/ prefix if not present
+            if not doi_str.startswith('http'):
+                doi_str = f'https://doi.org/{doi_str}'
+            formatted_dois.append(doi_str)
+        
+        return formatted_dois
+    except Exception as e:
+        print(f"Error reading text file: {e}")
+        return []
+
+
 def main():
     """Main function - wrapper for paper_data_collector."""
     parser = argparse.ArgumentParser(
@@ -71,7 +104,7 @@ This script collects:
 - Authors and affiliations
 - Publication year and journal
 
-The system processes DOIs from Excel file or Python file
+The system processes DOIs from Excel file, text file, or Python file
 
 Examples:
   # Run with default settings (reads from Excel)
@@ -79,6 +112,9 @@ Examples:
   
   # Specify custom Excel file
   python scripts/collect_papers.py --excel-file my_papers.xlsx --sheet positives
+  
+  # Use text file with DOIs (one per line)
+  python scripts/collect_papers.py --txt-file dois.txt
   
   # Use old Python DOI list file
   python scripts/collect_papers.py --doi-file doi_list.py
@@ -100,10 +136,17 @@ Examples:
     )
     
     parser.add_argument(
+        '--txt-file',
+        type=str,
+        default=None,
+        help='Text file containing DOI list (one per line, overrides Excel file)'
+    )
+    
+    parser.add_argument(
         '--doi-file',
         type=str,
         default=None,
-        help='Python file containing DOI list (legacy option, overrides Excel file)'
+        help='Python file containing DOI list (legacy option, overrides Excel and text files)'
     )
     
     parser.add_argument(
@@ -126,11 +169,21 @@ Examples:
     print("Paper Data Collector")
     print("="*80)
     
-    # Load DOIs from Excel or Python file
+    # Load DOIs from text file, Excel, or Python file (priority order)
     if args.doi_file:
         print(f"DOI source: {args.doi_file} (Python file)")
         # Use the original doi_list.py approach
         dois = None
+    elif args.txt_file:
+        print(f"DOI source: {args.txt_file} (text file)")
+        dois = load_dois_from_txt(args.txt_file)
+        if not dois:
+            print("Error: No DOIs loaded from text file")
+            return 1
+        print(f"Loaded {len(dois)} DOIs from text file")
+        
+        # Override the dois in the collector module
+        collector_module.dois = dois
     else:
         print(f"DOI source: {args.excel_file}")
         print(f"Sheet: {args.sheet}")

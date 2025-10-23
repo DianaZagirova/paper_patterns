@@ -1,0 +1,37 @@
+{
+  "doi": "10.1038/s43587-021-00134-3",
+  "title": "Profiling epigenetic age in single cells",
+  "abstract": "DNA methylation dynamics emerged as a promising biomarker of mammalian aging, with multivariate machine learning models ('epigenetic clocks') enabling measurement of biological age in bulk tissue samples. However, intrinsically sparse and binarized methylation profiles of individual cells have so far precluded the assessment of aging in single-cell data. Here, we introduce <i>scAge</i>, a statistical framework for epigenetic age profiling at single-cell resolution, and validate our approach in mice. Our method recapitulates the chronological age of tissues, while uncovering heterogeneity among cells. We show accurate tracking of the aging process in hepatocytes, demonstrate attenuated epigenetic aging in muscle stem cells, and track age dynamics in embryonic stem cells. We also use <i>scAge</i> to reveal, at the single-cell level, a natural and stratified rejuvenation event occurring during early embryogenesis. We provide our framework as a resource to enable exploration of epigenetic aging trajectories at single-cell resolution.",
+  "full_text": {},
+  "mesh_terms": [
+    "Animals",
+    "Mice",
+    "Epigenesis, Genetic",
+    "Aging",
+    "DNA Methylation",
+    "Biomarkers",
+    "Hepatocytes",
+    "Mammals"
+  ],
+  "keywords": [],
+  "citation_count": 117,
+  "authors": [
+    {
+      "name": "Alexandre Trapp",
+      "affiliations": []
+    },
+    {
+      "name": "Csaba Kerepesi",
+      "affiliations": []
+    },
+    {
+      "name": "Vadim N. Gladyshev",
+      "affiliations": []
+    }
+  ],
+  "year": 2021,
+  "journal": "Nature Aging",
+  "pmid": "36211119",
+  "pmcid": "PMC9536112",
+  "collection_date": "2025-10-15"
+}

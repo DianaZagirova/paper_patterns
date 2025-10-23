@@ -1,0 +1,36 @@
+{
+  "doi": "10.1016/j.biosystems.2024.105157",
+  "title": "Dissipative scaling of development and aging in multicellular organisms",
+  "abstract": "Evolution, self-replication and ontogenesis are highly dynamic, irreversible and self-organizing processes dissipating energy. While progress has been made to decipher the role of thermodynamics in cellular fission, it is not yet clear how entropic balances shape organism growth and aging. This paper derives a general dissipation theory for the life history of organisms. It implies a self-regulated energy dissipation facilitating exponential growth within a hierarchical and entropy lowering self-organization. The theory predicts ceilings in energy expenditures imposed by geometric constrains, which promote thermal optimality during development, and a dissipative scaling across organisms consistent with ecological scaling laws combining isometric and allometric terms. The theory also illustrates how growing organisms can tolerate damage through continuous extension and production of new dissipative structures low in entropy. However, when organisms reduce their rate of cell division and reach a steady adult state, they become thermodynamically unstable, increase internal entropy by accumulating damage, and age.",
+  "full_text": {},
+  "mesh_terms": [
+    "Thermodynamics",
+    "Entropy",
+    "Physical Phenomena",
+    "Energy Metabolism"
+  ],
+  "keywords": [
+    "Aging",
+    "Development",
+    "Dissipative structures",
+    "Ecology",
+    "Entropy",
+    "Maximum entropy production principle",
+    "Metabolism",
+    "Mitosis",
+    "Scaling laws",
+    "Thermodynamics"
+  ],
+  "citation_count": 5,
+  "authors": [
+    {
+      "name": "Andres Kriete",
+      "affiliations": []
+    }
+  ],
+  "year": 2024,
+  "journal": "BioSystems",
+  "pmid": "38367762",
+  "pmcid": null,
+  "collection_date": "2025-10-15"
+}
